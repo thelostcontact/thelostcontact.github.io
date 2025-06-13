@@ -60,16 +60,6 @@ footer img {
 }
 </style>
 
-<div style="margin: 60px 0; padding: 0 10px; text-align: center;">
-  <p style="color: #cccccc; font-size: 1.1em; max-width: 720px; margin: 0 auto;">
-    Here is some of my creative work that is quite special to me. In case I don’t have children of my own, I hope this will endure forever on GitHub in the brighter corners of the internet.
-    <br><br>
-    So without further adieu…
-    <br><br>
-    <strong style="letter-spacing: 1px; color: #d0d8ff;">Broadcasting from beyond: THE LOST CONTACT.</strong>
-  </p>
-</div>
-
 <div class="section">
   <div class="text">
     <h2><a href="URL1">HIP HOP MIXTAPES</a></h2>
