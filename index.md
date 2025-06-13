@@ -7,7 +7,7 @@ description: "A digital archive of creative transmissions."
 <style>
 body {
   background-color: #0e0e0e;  /* dark spacey background */
-  color: #ffffff;             /* white text for descriptions */
+  color: #d0d8ff;             /* softer off-white for descriptions */
   font-family: 'Courier New', Courier, monospace;
   line-height: 1.6;
   padding: 20px;
@@ -47,7 +47,7 @@ body {
 }
 .section p {
   margin: 0;
-  color: #ffffff; /* bright white for descriptions */
+  color: #d0d8ff; /* softer off-white for descriptions */
 }
 footer {
   margin-top: 200px;
