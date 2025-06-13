@@ -7,7 +7,7 @@ description: "A digital archive of creative transmissions."
 <style>
 body {
   background-color: #0e0e0e;
-  color: #eaeaea;
+  color: #f0f0f0;
   font-family: 'Courier New', Courier, monospace;
   line-height: 1.6;
   padding: 20px;
@@ -19,7 +19,7 @@ body {
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
-  margin-bottom: 80px;
+  margin-bottom: 100px;
   gap: 40px;
 }
 .section img {
@@ -30,19 +30,19 @@ body {
 }
 .section .text {
   flex: 1;
-  max-width: 500px;
+  max-width: 560px;
 }
 .section h2 {
   font-size: 1.5em;
-  color: #ffffff;
-  margin-bottom: 10px;
+  color: #d0d0ff;
+  margin-bottom: 12px;
 }
 .section p {
   margin: 0;
-  color: #ccc;
+  color: #e0e0e0;
 }
 footer {
-  margin-top: 100px;
+  margin-top: 140px;
   text-align: center;
 }
 footer img {
