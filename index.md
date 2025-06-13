@@ -6,8 +6,8 @@ description: "A digital archive of creative transmissions."
 
 <style>
 body {
-  background-color: #0e0e0e;
-  color: #f5f5f5;
+  background-color: #f2f2f2;
+  color: #000000;
   font-family: 'Courier New', Courier, monospace;
   line-height: 1.6;
   padding: 20px;
@@ -19,7 +19,7 @@ body {
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
-  margin-bottom: 120px;
+  margin-bottom: 140px;
   gap: 40px;
 }
 .section img {
@@ -34,11 +34,12 @@ body {
 }
 .section h2 {
   font-size: 1.5em;
-  color: #cccccc;
+  color: #444444; /* Cool grey for cold, space-like tone */
   margin-bottom: 12px;
+  font-weight: 600;
 }
 .section h2 a {
-  color: #cccccc;
+  color: #444444;
   text-decoration: none;
 }
 .section h2 a:hover {
@@ -46,10 +47,10 @@ body {
 }
 .section p {
   margin: 0;
-  color: #fafafa;
+  color: #222222; /* Darker text for better contrast */
 }
 footer {
-  margin-top: 160px;
+  margin-top: 200px;
   text-align: center;
 }
 footer img {
