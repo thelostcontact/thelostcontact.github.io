@@ -65,7 +65,7 @@ footer img {
 </style>
 
 <div class="intro">
-  <p>Here is some of my creative work that is quite special to me. In case I don’t have children of my own, I hope this will endure forever on GitHub in the brighter corners of the internet.<br>
+  <p>Here is some of my creative work that is quite special to me. I might not have children of my own so I hope this will endure forever in the brighter corners of the internet.<br>
   So without further adieu…<br>
   Broadcasting from beyond: <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
 </div>
@@ -73,7 +73,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL1">HIP HOP MIXTAPES</a></h2>
-    <p>Custom blends, edits, and remixes. Tailored mixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: Lofi, film based (e.g, Star Wars, 007, LOTR etc.), mainstream, and underground.</p>
+    <p>Custom blends, edits, and remixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: Lofi, film based (e.g, Star Wars, 007, LOTR etc.), mainstream, and underground.</p>
   </div>
   <img src="link-to-mixtape-image.jpg" alt="Hip Hop Mixtapes">
 </div>
@@ -89,7 +89,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL3">BAGAN HIP HOP PRODUCTION</a></h2>
-    <p>Original beats and rhymes with a dash of samples (I make no money from these). My rap persona, Bagan, is a soft spoken charming gentleman who enjoys himself too much and is a superspy when it comes down to it.</p>
+    <p>Original beats, rhymes, and samples (I make no money from these - with good reason!). My rap persona, Bagan, is a soft spoken, charming gentleman who enjoys himself too much and is a superspy when it comes down to it.</p>
   </div>
   <img src="link-to-bagan-image.jpg" alt="Bagan Production">
 </div>
@@ -97,7 +97,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL4">J GUITAR LIBRARY</a></h2>
-    <p>Composed demos from over the years. Using these to pitch to potential band mates and it’s most definitely not a complete set. I try to improve my songwriting every day. Beachy vibes.</p>
+    <p>Composed demos from over the years. Not a complete set and using these to pitch to potential band mates. Hopefully my songwriting improves each time. Beachy vibes.</p>
   </div>
   <img src="link-to-guitar-image.jpg" alt="Guitar Library">
 </div>
