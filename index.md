@@ -63,7 +63,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL1">HIP HOP MIXTAPES</a></h2>
-    <p>Raw and reflective mixtapes recorded between oceans, often on a single mic in a single take.</p>
+    <p>Custom blends, edits, and remixes. Tailored mixes that are re-ordered and trimmed, often with new sounds thrown in. Some tracks are built around a sample or song. Something for everyone: Lofi, film based (e.g, Star Wars, 007, LOTR etc.), mainstream, and underground.</p>
   </div>
   <img src="link-to-mixtape-image.jpg" alt="Hip Hop Mixtapes">
 </div>
@@ -71,7 +71,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL2">MUSIC VIDEOS</a></h2>
-    <p>DIY visuals — lo-fi, poetic, cinematic. Captured in transit, edited in shadows.</p>
+    <p>Music videos I’ve put together since around 2001 (I think). Mostly hip hop, band, and original projects in there with a splash of anime.</p>
   </div>
   <img src="link-to-music-video-image.jpg" alt="Music Videos">
 </div>
@@ -79,7 +79,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL3">BAGAN HIP HOP PRODUCTION</a></h2>
-    <p>Instrumentals and beats made under the name Bagan. No loops. No samples. Just soul.</p>
+    <p>Original beats and rhymes with a dash of samples. My rap persona, Bagan, is a soft spoken charming gentleman who enjoys himself too much and is a superspy when it comes down to it.</p>
   </div>
   <img src="link-to-bagan-image.jpg" alt="Bagan Production">
 </div>
@@ -87,7 +87,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL4">J GUITAR LIBRARY</a></h2>
-    <p>Instrumental acoustic songs in a sun-soaked punk, ska, and indie surf rock style.</p>
+    <p>Composed demos from over the years. Using these to pitch to potential band mates and it’s most definitely not a complete set. Try to improve my songwriting every day. Beachy vibes.</p>
   </div>
   <img src="link-to-guitar-image.jpg" alt="Guitar Library">
 </div>
@@ -95,7 +95,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL5">FILM</a></h2>
-    <p>Fanedits and experimental cuts. Remixing meaning through rearrangement.</p>
+    <p>Short and long films where I had different roles and a fanedit trilogy I was compelled to make. Quite the variety and difficult to describe.  </p>
   </div>
   <img src="link-to-film-image.jpg" alt="Film Work">
 </div>
@@ -103,7 +103,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL6">RANDOM SHORTS</a></h2>
-    <p>Miscellaneous creative transmissions — demos, ideas, fragments, and moments in time.</p>
+    <p>Last but not least. Snippets and experimental features including the illustrious “Library Guy” meme collection that has been in the vault for centuries.</p>
   </div>
   <img src="link-to-random-shorts-image.jpg" alt="Random Shorts">
 </div>
