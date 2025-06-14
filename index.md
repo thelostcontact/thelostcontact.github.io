@@ -65,7 +65,7 @@ footer img {
 </style>
 
 <div class="intro">
-  <p>Here is the bulk of my creative work that is quite special to me. I hope everyone enjoys, has a laugh, and connects with life in the best kind of ways. With the potential absence of offspring, hopefully this work endures in the brighter corners of the internet.<br>
+  <p>Here is the bulk of my creative work that is quite special to me. I hope everyone enjoys, has a laugh, and connects with life in the best kind of ways. Hopefully this work endures for me in the brighter corners of the internet.<br>
   So without further adieu…<br>
   Broadcasting from beyond: <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
 </div>
