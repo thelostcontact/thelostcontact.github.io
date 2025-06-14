@@ -65,7 +65,7 @@ footer img {
 </style>
 
 <div class="intro">
-  <p>Here is some of my creative work that is quite special to me. I might not have children of my own so I hope this will endure forever in the brighter corners of the internet.<br>
+  <p>Here is the bulk of my creative work that is quite special to me. I hope everyone enjoys, has a laugh, and connects with life in the best kind of ways. With the potential absence of offspring, hopefully this work endures in the brighter corners of the internet.<br>
   So without further adieu…<br>
   Broadcasting from beyond: <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
 </div>
@@ -73,7 +73,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL1">HIP HOP MIXTAPES</a></h2>
-    <p>Custom blends, edits, and remixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: Lofi, film based (e.g, Star Wars, 007, LOTR etc.), mainstream, and underground.</p>
+    <p>Custom blends, edits, and remixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: Lofi, film based (e.g., Star Wars, 007, LOTR etc.), mainstream, and underground.</p>
   </div>
   <img src="link-to-mixtape-image.jpg" alt="Hip Hop Mixtapes">
 </div>
