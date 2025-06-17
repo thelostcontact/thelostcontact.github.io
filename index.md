@@ -120,5 +120,5 @@ footer img {
 
 <footer>
   <p><em>Transmission received.</em></p>
-  <img src="link-to-your-photo.jpg" alt="The Lost Contact">
+  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
 </footer>
