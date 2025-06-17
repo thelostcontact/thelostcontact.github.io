@@ -75,7 +75,7 @@ footer img {
     <h2><a href="URL1">HIP HOP MIXTAPES</a></h2>
     <p>Custom blends, edits, and remixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: Lofi, film based (e.g., Star Wars, 007, LOTR etc.), mainstream, and underground.</p>
   </div>
-  <img src="/assets/img/Justin_Coconut_Square.JPG" alt="Hip Hop Mixtapes">
+  <img src="/assets/img/Mixtapes.JPG" alt="Hip Hop Mixtapes">
 </div>
 
 <div class="section">
@@ -83,7 +83,7 @@ footer img {
     <h2><a href="URL2">MUSIC VIDEOS</a></h2>
     <p>Hip hop, band, and original projects in there with a splash of anime.</p>
   </div>
-  <img src="link-to-music-video-image.jpg" alt="Music Videos">
+  <img src="/assets/img/MusicVideos.JPG" alt="Music Videos">
 </div>
 
 <div class="section">
@@ -91,7 +91,7 @@ footer img {
     <h2><a href="URL3">BAGAN HIP HOP PRODUCTION</a></h2>
     <p>Original beats, rhymes, and samples (I make no money from these - with good reason!). My rap persona, Bagan, is a soft spoken, charming gentleman who enjoys himself too much and is a superspy when it comes down to it.</p>
   </div>
-  <img src="link-to-bagan-image.jpg" alt="Bagan Production">
+  <img src="/assets/img/Bagan.JPG" alt="Bagan Production">
 </div>
 
 <div class="section">
@@ -99,7 +99,7 @@ footer img {
     <h2><a href="URL4">J GUITAR LIBRARY</a></h2>
     <p>Composed demos from over the years. Not a complete set and using these to pitch to potential band mates. Hopefully my songwriting improves each time. Beachy vibes.</p>
   </div>
-  <img src="link-to-guitar-image.jpg" alt="Guitar Library">
+  <img src="/assets/img/Guitar2.JPG" alt="Guitar Library">
 </div>
 
 <div class="section">
@@ -107,7 +107,7 @@ footer img {
     <h2><a href="URL5">FILM</a></h2>
     <p>Films where I had different roles (editor, videographer, photographer, actor, VO guy etc.) and a fanedit trilogy. Quite the variety and difficult to describe.</p>
   </div>
-  <img src="link-to-film-image.jpg" alt="Film Work">
+  <img src="/assets/img/Film4.JPG" alt="Film Work">
 </div>
 
 <div class="section">
@@ -115,7 +115,7 @@ footer img {
     <h2><a href="URL6">RANDOM SHORTS</a></h2>
     <p>Last but not least. Snippets and experimental features including the illustrious Library Guy that has been in the vault for centuries.</p>
   </div>
-  <img src="link-to-random-shorts-image.jpg" alt="Random Shorts">
+  <img src="/assets/img/Justin_Coconut_Square.JPG" alt="Random Shorts">
 </div>
 
 <footer>
