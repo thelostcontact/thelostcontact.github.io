@@ -89,7 +89,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL3">BAGAN HIP HOP PRODUCTION</a></h2>
-    <p>Original beats, rhymes, and samples (I make no money from these - with good reason!). My rap persona, Bagan, is a soft spoken gentleman who enjoys himself too much and is a superspy when it comes down to it.</p>
+    <p>Original beats and rhymes forged from samples (I make no money from these - with good reason!). My rap persona, Bagan, is a soft spoken charming gentleman who enjoys himself too much and is a superspy when it comes down to it.</p>
   </div>
   <img src="/assets/img/Bagan.JPG" alt="Bagan Production">
 </div>
