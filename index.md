@@ -65,15 +65,15 @@ footer img {
 </style>
 
 <div class="intro">
-  <p>Here is the bulk of my creative work that is quite special to me. I hope everyone enjoys it, has a laugh, and connects with life in the best kind of ways. Hopefully this work endures for me in the brighter corners of the internet.<br>
+  <p>Here is the bulk of my creative work from 2002 onwards. I hope everyone enjoys it, has a laugh, and connects with life in the best kind of ways. Hopefully this work endures throughout time in the brighter corners of the internet.<br>
   So without further adieu…<br>
   Broadcasting from beyond: <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
 </div>
 
 <div class="section">
   <div class="text">
-    <h2><a href="URL1">HIP HOP MIXTAPES</a></h2>
-    <p>Custom blends, edits, and remixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: Lofi, film based (e.g., Star Wars, 007, LOTR etc.), mainstream, and underground.</p>
+    <h2><a href="URL1">MIXTAPES</a></h2>
+    <p>Custom blends, edits, and remixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: Hip hop, lofi, film based (e.g., Star Wars, 007, LOTR etc.), mainstream, and underground.</p>
   </div>
   <img src="/assets/img/Mixtapes.JPG" alt="Hip Hop Mixtapes">
 </div>
@@ -81,7 +81,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL2">MUSIC VIDEOS</a></h2>
-    <p>Hip hop, band, and original projects in there with a splash of anime.</p>
+    <p>An eclectic mix of music videos with a splash of anime.</p>
   </div>
   <img src="/assets/img/MusicVideos.JPG" alt="Music Videos">
 </div>
@@ -89,7 +89,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL3">BAGAN HIP HOP PRODUCTION</a></h2>
-    <p>Original beats, rhymes, and samples (I make no money from these - with good reason!). My rap persona, Bagan, is a soft spoken, charming gentleman who enjoys himself too much and is a superspy when it comes down to it.</p>
+    <p>Original beats, rhymes, and samples (I make no money from these - with good reason!). My rap persona, Bagan, is a soft spoken gentleman who enjoys himself too much and is a superspy when it comes down to it.</p>
   </div>
   <img src="/assets/img/Bagan.JPG" alt="Bagan Production">
 </div>
@@ -97,7 +97,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL4">J GUITAR LIBRARY</a></h2>
-    <p>Composed demos from over the years. Not a complete set and using these to pitch to potential band mates. Hopefully my songwriting improves each time. Beachy vibes.</p>
+    <p>Composed demos from over the years. Not a complete set and I use these to pitch to potential band mates. Hopefully my songwriting improves each time. Beachy vibes.</p>
   </div>
   <img src="/assets/img/Guitar2.JPG" alt="Guitar Library">
 </div>
@@ -105,7 +105,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL5">FILM</a></h2>
-    <p>Films where I had different roles (editor, videographer, photographer, actor, VO guy etc.) and a fanedit trilogy. Quite the variety and difficult to describe.</p>
+    <p>Films where I had different roles such as editor, videographer, photographer, actor, and VO guy. Quite the variety and difficult to describe.
   </div>
   <img src="/assets/img/Film4.JPG" alt="Film Work">
 </div>
@@ -113,7 +113,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL6">RANDOM SHORTS</a></h2>
-    <p>Last but not least. Snippets and experimental features including the illustrious Library Guy that has been in the vault for centuries.</p>
+    <p>Last but not least. Snippets and experimental features including the illustrious Library Guy meme collection that has been in the vault for centuries (well, since 2022).</p>
   </div>
   <img src="/assets/img/Justin_Coconut_Square.JPG" alt="Random Shorts">
 </div>
