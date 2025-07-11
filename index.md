@@ -73,7 +73,7 @@ footer img {
 <div class="section">
   <div class="text">
     <h2><a href="URL1">MIXTAPES</a></h2>
-    <p>Custom blends, edits, and remixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: Hip hop, lofi, film based (e.g., Star Wars, 007, LOTR etc.), mainstream, and underground.</p>
+    <p>Custom blends, edits, and remixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: lofi, hip hop, instrumentals, film based, mainstream, underground, radio mixes, and remixes.</p>
   </div>
   <img src="/assets/img/Mixtapes.JPG" alt="Hip Hop Mixtapes">
 </div>
