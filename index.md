@@ -13,6 +13,7 @@ body {
   background-color: #0e0e0e;
   color: #ffffff;
   font-family: 'Roboto Mono', monospace;
+  font-size: 1em;
   line-height: 1.6;
   padding: 20px;
   max-width: 960px;
@@ -37,7 +38,7 @@ body {
   max-width: 600px;
 }
 .section h2 {
-  font-size: 1.5em;
+  font-size: 1.4em;
   color: #444444;
   margin-bottom: 12px;
   font-weight: 600;
