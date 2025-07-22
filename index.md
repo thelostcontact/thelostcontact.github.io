@@ -133,6 +133,6 @@ footer img {
 </div>
 
 <footer>
-  <p>Ghost signal confirmed. Transmission received. It’s <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
+  <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
 </footer>
