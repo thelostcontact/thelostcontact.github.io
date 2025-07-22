@@ -80,7 +80,7 @@ footer img {
     <h2><a href="URL1">MIXTAPES</a></h2>
     <p>Custom blends, edits, and remixes that are re-ordered and trimmed, often with new sounds. Some tracks are built around a sample or song. Something for everyone: lofi, hip hop, instrumentals, film based, mainstream, underground, radio mixes, and remixes.</p>
   </div>
-  <img src="/assets/img/Clouds.JPG" alt="Hip Hop Mixtapes">
+  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="Hip Hop Mixtapes">
 </div>
 
 <div class="section">
@@ -125,5 +125,5 @@ footer img {
 
 <footer>
   <p><em>Transmission received.</em></p>
-  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
+  <img src="/assets/img/Clouds.JPG" alt="The Lost Contact">
 </footer>
