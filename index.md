@@ -37,7 +37,7 @@ body {
   max-width: 600px;
 }
 .section h2 {
-  font-family: 'Space Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
   font-size: 1.5em;
   color: #444444;
   margin-bottom: 12px;
