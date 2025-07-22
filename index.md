@@ -72,7 +72,7 @@ footer p {
   color: #111111;
 }
 footer img {
-  width: 360px;
+  width: 400px;
   border-radius: 50%;
   border: 0px solid #444;
 }
