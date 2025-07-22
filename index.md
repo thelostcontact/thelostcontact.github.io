@@ -13,7 +13,7 @@ body {
   background-color: #0e0e0e;
   color: #ffffff;
   font-family: 'Roboto Mono', monospace;
-  font-size: 0.75em;
+  font-size: 0.77em;
   line-height: 1.6;
   padding: 20px;
   max-width: 960px;
