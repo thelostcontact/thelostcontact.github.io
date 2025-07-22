@@ -76,7 +76,7 @@ footer img {
 </style>
 
 <div class="intro">
-  <p>Here is the bulk of my creative work from 2002 onwards. I hope everyone has a laugh and connects with life in the best of ways. Hopefully this work endures.<br>
+  <p>Here is the bulk of my creative work from 2002 onwards. I hope everyone has a laugh and connects with life in the best of ways. Hopefully this work endures when I become lost in time.<br>
   So without further adieu…<br>
   Broadcasting from beyond: <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
 </div>
