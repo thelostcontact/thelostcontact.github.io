@@ -63,7 +63,7 @@ footer {
   text-align: center;
 }
 footer img {
-  width: 180px;
+  width: 360px;
   border-radius: 50%;
   border: 2px solid #444;
 }
