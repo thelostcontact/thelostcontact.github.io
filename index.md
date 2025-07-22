@@ -109,10 +109,10 @@ footer img {
 
 <div class="section">
   <div class="text">
-    <h2><a href="URL5">FILM</a></h2>
-    <p>Films where I had different roles such as editor, videographer, photographer, actor, and VO guy. Quite the variety and difficult to describe.
-  </div>
-  <img src="/assets/img/Film4.JPG" alt="Film Work">
+  <h2><a href="URL5">FILM</a></h2>
+  <p>Films where I had different roles such as editor, videographer, photographer, actor, and VO guy. Quite the variety and difficult to describe.</p>
+</div>
+<img src="/assets/img/Film4.JPG" alt="Film Work">
 </div>
 
 <div class="section">
