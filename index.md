@@ -127,4 +127,3 @@ footer img {
   <p><em>Transmission received.</em></p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
 </footer>
-
