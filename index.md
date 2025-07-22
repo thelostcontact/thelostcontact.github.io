@@ -74,7 +74,7 @@ footer p {
 footer img {
   width: 360px;
   border-radius: 50%;
-  border: 2px solid #444;
+  border: 0px solid #444;
 }
 </style>
 
