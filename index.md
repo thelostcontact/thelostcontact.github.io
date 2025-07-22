@@ -7,6 +7,7 @@ description: "A digital archive of creative transmissions."
 <style>
   
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 
 body {
   background-color: #0e0e0e;
@@ -38,7 +39,7 @@ body {
 .section h2 {
   font-family: 'Space Mono', monospace;
   font-size: 1.5em;
-  color: #444444; /* cold grey for category titles */
+  color: #444444;
   margin-bottom: 12px;
   font-weight: 600;
 }
