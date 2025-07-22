@@ -68,6 +68,9 @@ footer {
   margin-top: 200px;
   text-align: center;
 }
+footer p {
+  color: #111111;
+}
 footer img {
   width: 360px;
   border-radius: 50%;
@@ -130,6 +133,6 @@ footer img {
 </div>
 
 <footer>
-  <p>Transmission received. Ghost signal confirmed — it’s <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
+  <p>Transmission received. It’s <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
 </footer>
