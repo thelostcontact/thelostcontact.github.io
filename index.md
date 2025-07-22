@@ -8,7 +8,7 @@ description: "A digital archive of creative transmissions."
 body {
   background-color: #0e0e0e;
   color: #ffffff;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Share Tech Mono', monospace;
   line-height: 1.6;
   padding: 20px;
   max-width: 960px;
