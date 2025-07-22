@@ -24,7 +24,7 @@ body {
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
-  margin-bottom: 140px;
+  margin-bottom: 80px; /* reduced from 140px */
   gap: 40px;
 }
 .section img {
@@ -127,3 +127,4 @@ footer img {
   <p><em>Transmission received.</em></p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
 </footer>
+
