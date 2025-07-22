@@ -120,7 +120,7 @@ footer img {
     <h2><a href="URL6">RANDOM SHORTS</a></h2>
     <p>Last but not least. Snippets and experimental features including the illustrious Library Guy meme collection that has been in the vault for centuries (well, since 2022).</p>
   </div>
-  <img src="/assets/img/Shorts2.JPG" alt="Random Shorts">
+  <img src="/assets/img/Shorts2.JPG" alt="Random Shorts" class="small-img">
 </div>
 
 <footer>
