@@ -24,11 +24,17 @@ body {
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
-  margin-bottom: 80px; /* reduced from 140px */
+  margin-bottom: 80px;
   gap: 40px;
 }
 .section img {
   max-width: 320px;
+  height: auto;
+  border: 2px solid #444;
+  border-radius: 4px;
+}
+.small-img {
+  max-width: 260px;
   height: auto;
   border: 2px solid #444;
   border-radius: 4px;
@@ -109,10 +115,10 @@ footer img {
 
 <div class="section">
   <div class="text">
-  <h2><a href="URL5">FILM</a></h2>
-  <p>Films where I had different roles such as editor, videographer, photographer, actor, and VO guy. Quite the variety and difficult to describe.</p>
-</div>
-<img src="/assets/img/Film4.JPG" alt="Film Work">
+    <h2><a href="URL5">FILM</a></h2>
+    <p>Films where I had different roles such as editor, videographer, photographer, actor, and VO guy. Quite the variety and difficult to describe.</p>
+  </div>
+  <img src="/assets/img/Film4.JPG" alt="Film Work">
 </div>
 
 <div class="section">
@@ -124,6 +130,6 @@ footer img {
 </div>
 
 <footer>
-  <p><em>Transmission received.</em></p>
+  <p>Transmission received. Ghost signal confirmed — it’s <strong style="color:#6eaaff">THE LOST CONTACT</strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
 </footer>
