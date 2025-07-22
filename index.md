@@ -5,13 +5,13 @@ description: "A digital archive of creative transmissions."
 ---
 
 <style>
-
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
   
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
 body {
   background-color: #0e0e0e;
   color: #ffffff;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
   line-height: 1.6;
   padding: 20px;
   max-width: 960px;
