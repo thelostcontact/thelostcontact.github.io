@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FilmGames
-permalink: /mixtapes/Gen3
+permalink: /mixtapes/filmgames/
 ---
 
 # FilmGames 🎧
