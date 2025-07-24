@@ -6,13 +6,15 @@ permalink: /mixtapes/
 
 # 🎧 The Lost Contact – Mixtape Archive
 
-Welcome to my mixtape collection. 2-3 times per year I sit down and create a mixtape for about a week in my spare time. It is an evolving archive of handpicked tracks I've edited. 
+Welcome to my mixtape collection — an evolving archive of handpicked tracks I've edited. 2-3 times per year I sit down and create a mixtape for about a week in my spare time. 
 
-With each track, I do whatever is needed to bring it to a new level according to my vision for it. This includes cutting parts (e.g., verses/choruses, vocals, skits, SFX etc.), re-ordering it, adding SFX and skits, blending it with other tracks, and re-working the beginnings and endings. Some tracks I've put together almost from scratch - getting beats, samples, and building from there. 
+With each track, I do whatever is needed to bring it to a new level according to my vision. This includes cutting parts (e.g., verses/choruses, vocals, skits, SFX), re-ordering, adding SFX and skits, blending with other tracks, and re-working the beginnings and endings. Some tracks I've put together almost from scratch — getting beats, samples, and building from there. 
 
-Some tracks are so perfect, they don't need anything and I include them as is. If a track says EDIT beside it, it means I've done something to it. After I listen to the whole tape and make final edits, I wait a week to listen to the finished product. Then, typically, I listen to the perfected tape over and over again in my spare time until it's time to make another one.   
+Some tracks arrive perfectly so I include them as is. After I listen to the whole tape and make final edits, I wait a week to listen to the finished product. Then I listen to the final tape over and over again until it's time to make another one.   
 
-I've divided the mixtapes into 3 generations. Each generation reflects a period of time in my life and when I listen to a specific mixtape, it brings me back to life then. Finally, there are mixtape tracks from specific films, TV, and games that I've organized into folders for sake of conveniences. For example, if you're interested in LOTR, Star Wars, or Bond 007 tracks, you can access them there rather than digging through each mixtape. 
+I've divided the tapes into 3 generations. The 3rd generation is my best work to check out first, 2nd is great too, and 1st is from a different age  and has the least amount of editing on my part. Each tape reflects a time in my life and they always bring me back. The best way to experience each one is with a set of decent headphones and to set your player to random, leaving the experience to chance.
+
+Finally, there are mixtape tracks from specific films, TV, and games that I've organized into folders for sake of convenience. You can access them in labelled folders rather than digging through each mixtape. 
 
 To experience the tapes:
 
