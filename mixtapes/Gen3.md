@@ -1,7 +1,0 @@
----
-layout: default
-title: Gen3
-permalink: /mixtapes/Gen3
----
-
-# Gen3 🎧
