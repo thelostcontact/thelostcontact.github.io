@@ -4,7 +4,7 @@ title: Mixtapes
 permalink: /mixtapes/
 ---
 
-# 🎧 The Lost Contact – Mixtape Archive
+# 🎧 Mixtape Archive
 
 Welcome to my mixtape collection — an evolving archive of handpicked tracks I've edited. 2-3 times per year I sit down and create a mixtape for about a week in my spare time. 
 
