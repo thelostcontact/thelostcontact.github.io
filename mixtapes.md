@@ -30,9 +30,9 @@ To experience the tapes:
 
 | Year | Thumbnail | Description | Links |
 |------|-----------|-------------|-------|
-| **2024–2025** | ![Gen 3](https://via.placeholder.com/80x80.png?text=Gen+3) | **Gen 3** is my tightest and most dynamic work to date — rhythm-driven, bold, and emotionally layered. These mixes are curated for deep listening or late-night cruising. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen3) <br> [📥 Download Folder](https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw) |
-| **2022–2023** | ![Gen 2](https://via.placeholder.com/80x80.png?text=Gen+2) | **Gen 2** dives into moodier territory — slower, warmer blends, lo-fi soul, and cinematic builds. A bridge between rawness and refinement. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen2) <br> [📥 Download Folder](https://mega.nz/folder/PgRwFCgT#3jiX4nqwScvc0ZmdmSZdcg) |
-| **2020–2021** | ![Gen 1](https://via.placeholder.com/80x80.png?text=Gen+1) | **Gen 1** is the raw origin — beachy, nostalgic, sometimes chaotic. Punky transitions, freestyle blends, and unfiltered ideas. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen1) <br> [📥 Download Folder](https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA) |
+| **2024–2025** | ![Gen 3](https://via.placeholder.com/80x80.png?text=Gen+3) | **Gen 3** is my tightest and most dynamic work to date — rhythm-driven, bold, and emotionally layered. These mixes are curated for deep listening or late-night cruising. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen3){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw){:target="_blank"} |
+| **2022–2023** | ![Gen 2](https://via.placeholder.com/80x80.png?text=Gen+2) | **Gen 2** dives into moodier territory — slower, warmer blends, lo-fi soul, and cinematic builds. A bridge between rawness and refinement. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen2){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/PgRwFCgT#3jiX4nqwScvc0ZmdmSZdcg){:target="_blank"} |
+| **2020–2021** | ![Gen 1](https://via.placeholder.com/80x80.png?text=Gen+1) | **Gen 1** is the raw origin — beachy, nostalgic, sometimes chaotic. Punky transitions, freestyle blends, and unfiltered ideas. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen1){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA){:target="_blank"} |
 
 ---
 
@@ -40,7 +40,7 @@ To experience the tapes:
 
 | Folder | Description | Links |
 |--------|-------------|-------|
-| 🎮 FilmGames | This side archive collects theme-based mixes and curated tracks inspired by specific films, games, or moods. Perfect for background ambience or focused creative work. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/filmgames) <br> [📥 Download Folder](https://mega.nz/folder/S45GhI6J#7leHiK7YQYzfJABLfM75bA) |
+| 🎮 FilmGames | This side archive collects theme-based mixes and curated tracks inspired by specific films, games, or moods. Perfect for background ambience or focused creative work. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/filmgames){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/S45GhI6J#7leHiK7YQYzfJABLfM75bA){:target="_blank"} |
 
 ---
 
