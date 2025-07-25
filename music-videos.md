@@ -4,6 +4,16 @@ title: Music Videos
 permalink: /music-videos/
 ---
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const links = document.querySelectorAll('a[href]');
+    links.forEach(link => {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  });
+</script>
+
 # 🎥 Music Video Archive
 
 Welcome to my music video collection — a personal timeline of experimental edits, animated sequences, and collaborative works that span nearly two decades. These projects were driven by inspiration, experimentation, and often built from scratch using game engines, animation tools, or remixing found footage.
