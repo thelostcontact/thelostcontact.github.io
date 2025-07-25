@@ -41,7 +41,7 @@ To experience these films:
 | **2012** | Bright Future | &nbsp; | [📥 Download](https://mega.nz/file/6hQSzKLT#Q8Aab2IgyXjKYpJQl-Wj8EMrLFjb3PJzemfb5nUOU3c){:target="_blank"} |
 | **2016** | Tainan, TAIWAN (3 Days & 2 Nights) | &nbsp; | [📥 Download](https://mega.nz/file/HhwD3awb#a8INc3SfqSaGSBmNplR_nfMWxq4N-_KOZFHgJ_S7rys){:target="_blank"} <br> [▶️ Stream](https://youtu.be/nu_YpHkOUfU){:target="_blank"} |
 | **2017** | Grad Vid Taipei | &nbsp; | [📥 Download](https://mega.nz/file/a1ZAHDQD#KEzvu66vJwc6ePxkrmQlduGctG9eZHiYQ8jos7havy8){:target="_blank"} |
-| **2020** | Taiwan Living | 台灣生活 | [📥 Download](https://mega.nz/file/G4pCyZjT#ewOQHcZjVWrEo6OI3EJ1d-DrJKpWdSdaonU4CU7ye5w){:target="_blank"} |
+| **2020** | Taiwan Living 台灣生活 | &nbsp; | [📥 Download](https://mega.nz/file/G4pCyZjT#ewOQHcZjVWrEo6OI3EJ1d-DrJKpWdSdaonU4CU7ye5w){:target="_blank"} |
 | **2024** | Trek to the Beach | OrbRaider4K | [📥 Download](https://mega.nz/file/npBwiDbK#7_wTMSX7xCAe4Qo1bR34XFelon3RwUIRL2TZ_QjANiY){:target="_blank"} <br> [▶️ Stream](https://youtu.be/kU7cM33-fOQ){:target="_blank"} |
 
 ---
