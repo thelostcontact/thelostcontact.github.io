@@ -46,5 +46,15 @@ To experience these films:
 
 ---
 
+## ✨ Bonus Archive – Star Wars Fan Edits
+
+| Year | Title | Description | Links |
+|------|-------|-------------|-------|
+| **2013–2015** | SW Despecialized Editions | Restorations of the original theatrical trilogy by Harmy. | [📥 Download Folder](https://mega.nz/folder/uhJXCLRI#K76XJqOa6cMcYXeYLzg7AA){:target="_blank"} |
+| **2024** | SW Jedi Scriptures | A reimagined spiritual cut through the lens of Jedi mythology. | [📥 Download Folder](https://mega.nz/folder/4MRCzBpY#rFKrrx9uHxmT5TEbwXZfag){:target="_blank"} |
+| **2006–2010** | SW Documentaries | Legendary fan documentaries: *Star Wars Begins*, *Building Empire*, *Returning to Jedi*. | [📥 Download Folder](https://mega.nz/folder/BBAUzbiY#1QAHZqoIdv4vJGVcRINjtQ){:target="_blank"} |
+
+---
+
 Thanks for watching. I hope these stories resonate or inspire.  
 — *The Lost Contact*
