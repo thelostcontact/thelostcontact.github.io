@@ -51,7 +51,7 @@ To experience these films:
 | Year | Title | Description | Links |
 |------|-------|-------------|-------|
 | **2013–2015** | SW Despecialized Editions | Restorations of the original theatrical trilogy. | [📥 Download Folder](https://mega.nz/folder/uhJXCLRI#K76XJqOa6cMcYXeYLzg7AA){:target="_blank"} |
-| **2024** | SW Jedi Scriptures Trilogy | Fan edit cuts built on other fan edits and with a focus on the spiritual and Jedi elements. | [📥 Download Folder](https://mega.nz/folder/4MRCzBpY#rFKrrx9uHxmT5TEbwXZfag){:target="_blank"} |
+| **2024** | SW Jedi Scriptures Trilogy by ShogunEdit (aka The Lost Contact)| Fan edit cuts built on other fan edits and with a focus on the spiritual and Jedi elements. | [📥 Download Folder](https://mega.nz/folder/4MRCzBpY#rFKrrx9uHxmT5TEbwXZfag){:target="_blank"} |
 | **2006–2010** | SW Original Trilogy Documentaries | Legendary fan documentaries| [📥 Download Folder](https://mega.nz/folder/BBAUzbiY#1QAHZqoIdv4vJGVcRINjtQ){:target="_blank"} |
 
 ---
