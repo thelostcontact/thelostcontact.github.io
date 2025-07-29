@@ -5,19 +5,18 @@ description: "A digital archive of creative transmissions."
 ---
 
 <style>
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
-
 body {
   background-color: #0e0e0e;
   color: #ffffff;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Segoe UI', sans-serif;
   font-size: 0.8em;
   line-height: 1.6;
   padding: 20px;
   max-width: 960px;
   margin: 0 auto;
+}
+a {
+  color: #6eaaff;
 }
 .section {
   display: flex;
@@ -58,11 +57,23 @@ body {
 }
 .section p {
   margin: 0;
-  color: #111111; /* very dark grey for descriptions */
+  color: #111111;
 }
 .intro {
   margin-bottom: 80px;
   color: #111111;
+}
+.header-title {
+  font-size: 1.6em;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.header-title a {
+  color: #6eaaff;
+  text-decoration: none;
+}
+.header-title a:hover {
+  text-decoration: underline;
 }
 footer {
   margin-top: 200px;
@@ -77,6 +88,10 @@ footer img {
   border: 0px solid #444;
 }
 </style>
+
+<div class="header-title">
+  <a href="https://thelostcontact.github.io/">THE LOST CONTACT</a>
+</div>
 
 <div class="intro">
   <p>Here is the bulk of my creative work from 2002 onwards. I hope everyone has a laugh and connects with life in the best of ways. Hopefully this work endures after I dodge a phaser blast and head into the chasm of the unknown.<br>
