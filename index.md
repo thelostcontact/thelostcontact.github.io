@@ -9,7 +9,7 @@ body {
   background-color: #0e0e0e;
   color: #ffffff;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.9em;
+  font-size: 1.0em;
   line-height: 1.6;
   padding: 20px;
   max-width: 960px;
