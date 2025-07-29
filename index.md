@@ -9,7 +9,7 @@ body {
   background-color: #0e0e0e;
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
-  font-size: 0.8em;
+  font-size: 0.9em;
   line-height: 1.6;
   padding: 20px;
   max-width: 960px;
@@ -88,10 +88,6 @@ footer img {
   border: 0px solid #444;
 }
 </style>
-
-<div class="header-title">
-  <a href="https://thelostcontact.github.io/">THE LOST CONTACT</a>
-</div>
 
 <div class="intro">
   <p>Here is the bulk of my creative work from 2002 onwards. I hope everyone has a laugh and connects with life in the best of ways. Hopefully this work endures after I dodge a phaser blast and head into the chasm of the unknown.<br>
