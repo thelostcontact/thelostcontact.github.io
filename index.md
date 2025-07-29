@@ -8,7 +8,7 @@ description: "A digital archive of creative transmissions."
 body {
   background-color: #0e0e0e;
   color: #ffffff;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 1.0em;
   line-height: 1.6;
   padding: 20px;
