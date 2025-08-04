@@ -28,11 +28,3 @@ To experience the tapes:
 ---
 
 [⬅ Back to Mixtapes Overview](/mixtapes/)
-
----
-
----
-layout: default
-title: Gen 2 Mixtapes
-permalink: /mixtapes/gen2/
----
