@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gen 2 Mixtapes
+permalink: /mixtapes/gen2/
+---
+
 # 🌠 Gen 2 Mixtapes (2010–2020)
 
 This era reflects a slow transition toward more detailed editing and atmospheric cohesion. Lo-fi textures, soul-fusion blends, and experimental vibes run through many of these tracks.
