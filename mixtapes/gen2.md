@@ -11,7 +11,8 @@ This era reflects a slow transition toward more detailed editing and atmospheric
 To experience the tapes:
 
 - Click the **Download** link beside each title to access the mixtape via MEGA.
-- All links open in new tabs.
+- [📥 Full Download Folder](https://mega.nz/folder/PgRwFCgT#3jiX4nqwScvc0ZmdmSZdcg){:target="_blank"}
+
 
 ---
 
