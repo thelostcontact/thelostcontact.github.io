@@ -11,9 +11,7 @@ This is the raw zone — my earliest experiments in cutting and blending tracks.
 To experience the tapes:
 
 - Click the **Download** link beside each era.
-- Or download the full Gen 1 archive here:  
-  [📥 Full Download Folder](https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA){:target="_blank"}
-
+  
 ---
 
 ---
