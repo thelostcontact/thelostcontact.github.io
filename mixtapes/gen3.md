@@ -11,7 +11,9 @@ These are my latest and most refined mixes — cinematic, intricate, and emotion
 To experience the tapes:
 
 - Click the **Download** link beside each title to access the mixtape via MEGA.
-- All links open in new tabs so you won’t lose your place.
+- Or download the full Gen 3 archive here:  
+  [📥 Full Download Folder](https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw){:target="_blank"}
+
 
 ---
 
