@@ -2,24 +2,33 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <header id="header">
-      <div class="header-flex">
-        <h1 id="project_title">{{ site.title | default: "thelostcontact" }}</h1>
-        <img src="{{ '/assets/img/header-image.png' | relative_url }}" alt="Site Logo" class="header-logo">
-      </div>
-    </header>
+    <div id="container">
+      <header>
+        <div class="header-flex">
+          <h1 id="project_title">{{ site.title }}</h1>
+          <div class="header-image-container">
+            <img src="{{ "/assets/images/header-image.png" | relative_url }}" alt="The Lost Contact" class="header-logo">
+          </div>
+        </div>
+        <h2 id="project_tagline">{{ site.description }}</h2>
+      </header>
 
-    <section id="main_content" class="inner">
-      {{ content }}
-    </section>
+      <section id="main_content">
+        {{ content }}
+      </section>
 
-    <footer>
-      <p>{{ site.description }}</p>
-    </footer>
+      <footer>
+        {% if site.github.is_project_page %}
+          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/pages-themes/slate">Slate</a></p>
+      </footer>
+    </div>
   </body>
 </html>
