@@ -1,34 +1,30 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>{{ page.title | default: site.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/custom.css?v=" | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
   </head>
   <body>
-    <div id="container">
-      <header>
-        <div class="header-flex">
-          <h1 id="project_title">{{ site.title }}</h1>
-          <div class="header-image-container">
-            <img src="{{ "/assets/images/header-image.png" | relative_url }}" alt="The Lost Contact" class="header-logo">
-          </div>
-        </div>
-        <h2 id="project_tagline">{{ site.description }}</h2>
-      </header>
+    <header class="site-header">
+      <div class="header-left">
+        <h1 class="site-title">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+      </div>
+      <div class="header-right">
+        <img src="{{ '/assets/images/header-image.jpg' | relative_url }}" alt="Header Image">
+      </div>
+    </header>
 
-      <section id="main_content">
-        {{ content }}
-      </section>
+    <main class="page-content">
+      {{ content }}
+    </main>
 
-      <footer>
-        {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/pages-themes/slate">Slate</a></p>
-      </footer>
-    </div>
+    <footer class="site-footer">
+      {{ site.footer }}
+    </footer>
   </body>
 </html>
