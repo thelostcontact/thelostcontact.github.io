@@ -5,31 +5,61 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <!-- Slate theme CSS -->
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
-{% seo %}
+    <!-- Your overrides (loaded AFTER the theme so they take effect) -->
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    {% seo %}
     {% include head-custom.html %}
   </head>
 
   <body>
 
-    <!-- HEADER -->
+    <!-- HEADER (slate’s existing grey bar) -->
     <div id="header_wrap" class="outer">
-        <header class="inner">
-          {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+      <header class="inner">
+        {% if site.github.is_project_page %}
+          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+        {% endif %}
+
+        {%- comment -%}
+          Detect the homepage so we only show the custom header there.
+          This covers common cases on GitHub Pages.
+        {%- endcomment -%}
+        {% assign is_home =
+           page.url == '/' or page.permalink == '/' or page.path == 'index.md' or page.path == 'index.html' %}
+
+        {% if is_home %}
+          <!-- HOMEPAGE HEADER: title (linked) + graphic, all inside the same grey bar -->
+          <div class="header-flex">
+            <h1 id="project_title" class="header-title">
+              <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
+            </h1>
+            <img
+              class="header-logo"
+              src="{{ '/assets/header-image.png' | relative_url }}"
+              alt="{{ site.title | default: 'Site logo' }}">
+          </div>
+
+          {% if site.description or site.github.project_tagline %}
+            <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           {% endif %}
 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+        {% else %}
+          <!-- SUBPAGES: keep normal Slate look, but make the title clickable to the homepage -->
+          <h1 id="project_title">
+            <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
+          </h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+        {% endif %}
 
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
-        </header>
+        {% if site.show_downloads %}
+          <section id="downloads">
+            <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
+            <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
+          </section>
+        {% endif %}
+      </header>
     </div>
 
     <!-- MAIN CONTENT -->
