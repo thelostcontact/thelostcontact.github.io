@@ -1,39 +1,46 @@
-/* Force header to match image height, no extra margins/padding */
-#header {
-  background: #303030; /* Slate grey */
+/* ===== Custom Header Layout ===== */
+.header-flex {
+  display: flex;
+  align-items: center;   /* vertical center */
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+#project_title {
+  margin: 0; /* remove extra spacing above/below title */
+}
+
+/* Container for the right image */
+.header-image-container {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
   padding: 0;
   margin: 0;
 }
 
-.header-flex {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 2rem; /* space between title and image */
-  height: 170px; /* exactly match your image height */
-}
-
-#project_title {
-  color: #fff;
-  font-size: 2.5em; /* Slate default */
-  font-weight: normal;
-  margin: 0 0 0 1rem; /* left margin so text isn't stuck to edge */
-}
-
+/* Image itself */
 .header-logo {
-  height: 170px; /* force image to match header height exactly */
+  height: auto;
+  max-height: 170px;  /* matches your 480x170px image height */
   width: auto;
-  margin: 0; /* no space around image */
-  display: block;
+  max-width: 50%;     /* half the header width */
+  object-fit: cover;
+  display: block;     /* removes inline bottom gap */
 }
 
-/* Mobile: shrink image & allow wrapping */
+/* Responsive adjustments */
 @media (max-width: 600px) {
   .header-flex {
     flex-wrap: wrap;
-    height: auto;
+    text-align: center;
+  }
+  .header-image-container {
+    justify-content: center;
   }
   .header-logo {
-    max-height: 100px;
+    max-width: 80%;
+    max-height: 120px;
   }
 }
