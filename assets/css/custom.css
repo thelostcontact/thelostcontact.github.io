@@ -1,62 +1,65 @@
-/* Make the homepage header title + image sit on one row inside Slate’s grey bar */
+/* Container for header title and image */
 .header-flex {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
-  height: 170px;       /* Set header height */
-  padding: 0 20px;
-  background: transparent; /* No glowing box */
-  box-shadow: none;        /* Remove any box shadows */
+  height: 170px;           /* header height */
+  padding: 0;              /* remove padding */
+  margin: 0;               /* remove margin */
+  background: transparent; /* no glowing box */
+  box-shadow: none;
 }
 
-/* Make the title look like Slate’s heading but clickable */
+/* Title: restore Slate’s default look */
 #project_title {
-  flex: 1 1 50%;        /* Take roughly half width */
-  margin: 0;
-  font-size: 2em;
+  flex: 1 1 50%;
+  margin: 0 0 0 20px;       /* left margin for spacing */
+  font-size: 2.5rem;        /* Slate size */
+  font-weight: 700;
+  line-height: 1;
+  color: white;
   display: flex;
-  align-items: center;  /* Vertically center text */
-  color: #6eaaff;
+  align-items: center;
 }
 
+/* Title link styling */
 #project_title a {
-  color: inherit;        /* Use title’s color */
+  color: inherit;
   text-decoration: none;
 }
-
 #project_title a:hover {
   text-decoration: underline;
 }
 
-/* Responsive logo */
+/* Header image fills half width and full height exactly */
 .header-logo {
-  flex: 1 1 50%;        /* Take roughly half width */
-  height: 100%;         /* Full height of header */
+  flex: 1 1 50%;
+  height: 100%;
   width: auto;
-  object-fit: contain;  /* Keep aspect ratio */
+  object-fit: cover; /* makes sure it fully fills */
+  margin: 0;
+  padding: 0;
   display: block;
   border: none;
   box-shadow: none;
   background: none;
 }
 
-/* On small screens, shrink the logo (and let it wrap nicely if needed) */
+/* Responsive tweaks */
 @media (max-width: 600px) {
-  .header-logo {
-    max-height: 56px;
-    height: auto;       /* Let height adjust */
-    flex-basis: auto;
-  }
   .header-flex {
     flex-wrap: wrap;
-    height: auto;       /* Let height adjust */
-    padding: 10px 20px;
+    height: auto;
   }
   #project_title {
     flex: 1 1 100%;
-    font-size: 1.6em;
-    margin-bottom: 0.5em;
+    font-size: 1.8rem;
+    margin: 0 0 0.5em 0;
+  }
+  .header-logo {
+    flex: 1 1 100%;
+    height: auto;
+    max-height: 80px;
+    object-fit: contain;
   }
 }
-
