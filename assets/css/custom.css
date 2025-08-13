@@ -14,12 +14,12 @@
 #project_title {
   flex: 1 1 50%;
   margin: 0 0 0 20px;       /* left margin for spacing */
-  font-size: 2.5rem;        /* Slate size */
+  font-size: 2.5rem;        /* bigger font like Slate */
   font-weight: 700;
   line-height: 1;
-  color: white;
+  color: white;             /* default Slate header text */
   display: flex;
-  align-items: center;
+  align-items: center;      /* vertical center */
 }
 
 /* Title link styling */
@@ -31,12 +31,12 @@
   text-decoration: underline;
 }
 
-/* Header image fills half width and full height exactly */
+/* Header image fills half width and full height exactly, no padding/margin */
 .header-logo {
   flex: 1 1 50%;
   height: 100%;
   width: auto;
-  object-fit: cover; /* makes sure it fully fills */
+  object-fit: contain;
   margin: 0;
   padding: 0;
   display: block;
@@ -60,6 +60,6 @@
     flex: 1 1 100%;
     height: auto;
     max-height: 80px;
-    object-fit: contain;
   }
 }
+
