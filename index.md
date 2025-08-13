@@ -127,14 +127,14 @@ a {
 .bottom-graphic {
   position: relative;
   width: 100%;
-  height: 120px; /* enough height to hug bottom corner */
+  height: 120px; /* or whatever height you want */
   margin: 0;
   padding: 0;
 }
 .bottom-graphic img {
   position: absolute;
   bottom: 0;
-  right: 0;
+  left: 0;       /* Changed from right: 0; */
   max-width: 200px;
   height: auto;
   object-fit: contain;
