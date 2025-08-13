@@ -1,30 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title | escape }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | escape }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
   </head>
   <body>
-    <header class="site-header">
-      <div class="header-left">
+    <div class="wrapper">
+
+      <!-- HEADER -->
+      <header class="site-header">
         <h1 class="site-title">
           <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
         </h1>
-      </div>
-      <div class="header-right">
-        <img src="{{ '/assets/img/header-image.png' | relative_url }}" alt="Header Image">
-      </div>
-    </header>
+        <img class="header-logo" src="{{ '/assets/img/header-image.png' | relative_url }}" alt="Header Image">
+      </header>
 
-    <main class="page-content">
-      {{ content }}
-    </main>
+      <!-- MAIN CONTENT -->
+      <main class="page-content">
+        {{ content }}
+      </main>
 
-    <footer class="site-footer">
-      {{ site.footer }}
-    </footer>
+      <!-- FOOTER -->
+      <footer class="site-footer">
+        {{ site.footer }}
+      </footer>
+
+    </div>
   </body>
 </html>
