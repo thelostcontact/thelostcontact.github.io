@@ -26,10 +26,25 @@
           Detect the homepage so we only show the custom header there.
           This covers common cases on GitHub Pages.
         {%- endcomment -%}
-        {% assign is_home =
-           page.url == '/' or page.permalink == '/' or page.path == 'index.md' or page.path == 'index.html' %}
+{% assign is_home =
+   page.url == '/' or page.permalink == '/' or page.path == 'index.md' or page.path == 'index.html' %}
 
-        {% if is_home %}
+{% if is_home %}
+  <div class="header-flex">
+    <h1 id="project_title" class="header-title">
+      <a href="{{ '/' | relative_url }}">thelostcontact</a>
+    </h1>
+    <img
+      class="header-logo"
+      src="{{ '/assets/img/header-image-480x170.png' | relative_url }}"
+      alt="The Lost Contact">
+  </div>
+{% else %}
+  <h1 id="project_title">
+    <a href="{{ '/' | relative_url }}">thelostcontact</a>
+  </h1>
+{% endif %}
+        
           <!-- HOMEPAGE HEADER: title (linked) + graphic, all inside the same grey bar -->
      <div class="header-flex">
   <h1 id="project_title" class="header-title">
