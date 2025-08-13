@@ -142,14 +142,6 @@ footer img {
 }
 </style>
 
-<!-- HERO HEADER -->
-<div class="hero-header">
-  <div class="hero-content">
-    <h1><a href="/" class="site-title">THE LOST CONTACT</a></h1>
-    <img src="/assets/img/satellite-header.png" alt="Satellite Graphic">
-  </div>
-</div>
-
 <div class="intro">
   <p>Here is the bulk of my creative work from 2002 onwards. I hope everyone has a laugh and connects with life in the best of ways. Hopefully this work endures after I dodge a phaser blast and head into the chasm of the unknown.<br>
   So without further adieu…<br>
