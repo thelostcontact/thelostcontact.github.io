@@ -1,65 +1,39 @@
-/* Container for header title and image */
+/* Force header to match image height, no extra margins/padding */
+#header {
+  background: #303030; /* Slate grey */
+  padding: 0;
+  margin: 0;
+}
+
 .header-flex {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 170px;           /* header height */
-  padding: 0;              /* remove padding */
-  margin: 0;               /* remove margin */
-  background: transparent; /* no glowing box */
-  box-shadow: none;
+  gap: 2rem; /* space between title and image */
+  height: 170px; /* exactly match your image height */
 }
 
-/* Title: restore Slate’s default look */
 #project_title {
-  flex: 1 1 50%;
-  margin: 0 0 0 20px;       /* left margin for spacing */
-  font-size: 2.5rem;        /* Slate size */
-  font-weight: 700;
-  line-height: 1;
-  color: white;
-  display: flex;
-  align-items: center;
+  color: #fff;
+  font-size: 2.5em; /* Slate default */
+  font-weight: normal;
+  margin: 0 0 0 1rem; /* left margin so text isn't stuck to edge */
 }
 
-/* Title link styling */
-#project_title a {
-  color: inherit;
-  text-decoration: none;
-}
-#project_title a:hover {
-  text-decoration: underline;
-}
-
-/* Header image fills half width and full height exactly */
 .header-logo {
-  flex: 1 1 50%;
-  height: 100%;
+  height: 170px; /* force image to match header height exactly */
   width: auto;
-  object-fit: cover; /* makes sure it fully fills */
-  margin: 0;
-  padding: 0;
+  margin: 0; /* no space around image */
   display: block;
-  border: none;
-  box-shadow: none;
-  background: none;
 }
 
-/* Responsive tweaks */
+/* Mobile: shrink image & allow wrapping */
 @media (max-width: 600px) {
   .header-flex {
     flex-wrap: wrap;
     height: auto;
   }
-  #project_title {
-    flex: 1 1 100%;
-    font-size: 1.8rem;
-    margin: 0 0 0.5em 0;
-  }
   .header-logo {
-    flex: 1 1 100%;
-    height: auto;
-    max-height: 80px;
-    object-fit: contain;
+    max-height: 100px;
   }
 }
