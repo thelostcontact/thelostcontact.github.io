@@ -102,30 +102,49 @@ a {
   color: #111111;
 }
 
+/* ===== BOTTOM SIGN OFF ===== */
+.bottom-signoff {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin: 80px 0 40px;
+  color: #6eaaff;
+  font-size: 0.9em;
+  text-align: center;
+}
+.bottom-signoff p {
+  margin: 0;
+}
+.bottom-signoff img {
+  max-height: 100px;
+  width: auto;
+  border-radius: 50%;
+  border: 0 solid #444;
+}
+
 /* ===== BOTTOM GRAPHIC ===== */
 .bottom-graphic {
-  display: flex;
-  justify-content: center;
-  margin: 80px 0 40px;
+  position: relative;
+  width: 100%;
+  height: 120px; /* enough height to hug bottom corner */
+  margin: 0;
+  padding: 0;
 }
 .bottom-graphic img {
-  max-width: 100%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  max-width: 200px;
   height: auto;
+  object-fit: contain;
 }
 
 /* ===== FOOTER ===== */
 footer {
   margin-top: 80px;
   text-align: center;
-}
-footer p {
-  color: #111111;
-}
-footer img {
-  width: 400px;
-  max-width: 100%;
-  border-radius: 50%;
-  border: 0px solid #444;
+  /* empty footer as requested */
 }
 
 /* ===== MOBILE STYLING ===== */
@@ -138,6 +157,15 @@ footer img {
   .section img,
   .small-img {
     max-width: 100%;
+  }
+  .bottom-graphic {
+    height: 80px;
+  }
+  .bottom-graphic img {
+    max-width: 140px;
+  }
+  .bottom-signoff img {
+    max-height: 70px;
   }
 }
 </style>
@@ -208,12 +236,18 @@ footer img {
   </a>
 </div>
 
+<!-- BOTTOM SIGN OFF -->
+<div class="bottom-signoff">
+  <p>Ghost signal confirmed. Transmission received. <strong><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration:none;">THE LOST CONTACT</a></strong>.</p>
+  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
+</div>
+
 <!-- BOTTOM GRAPHIC -->
 <div class="bottom-graphic">
   <img src="/assets/img/satellite-footer.png" alt="Satellite Footer Graphic">
 </div>
 
 <footer>
-  <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
-  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
+  <!-- Empty footer as requested -->
 </footer>
+
