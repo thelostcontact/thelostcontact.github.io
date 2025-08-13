@@ -18,6 +18,42 @@ body {
 a {
   color: #6eaaff;
 }
+
+/* ===== HERO HEADER ===== */
+.hero-header {
+  background-color: #0e0e0e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+  border-bottom: 2px solid #444;
+}
+.hero-content {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap; /* allows wrapping on small screens */
+  gap: 20px;
+  text-align: center;
+}
+.hero-content h1 {
+  font-size: 2em;
+  margin: 0;
+  flex: 1 1 auto;
+}
+.hero-content img {
+  max-height: 80px;
+  width: auto;
+  flex-shrink: 0;
+}
+.site-title {
+  color: #6eaaff;
+  text-decoration: none;
+}
+.site-title:hover {
+  text-decoration: underline;
+}
+
+/* ===== SECTIONS ===== */
 .section {
   display: flex;
   flex-direction: row;
@@ -59,24 +95,27 @@ a {
   margin: 0;
   color: #111111;
 }
+
+/* ===== INTRO ===== */
 .intro {
   margin-bottom: 80px;
   color: #111111;
 }
-.header-title {
-  font-size: 1.6em;
-  margin-bottom: 40px;
-  text-align: center;
+
+/* ===== BOTTOM GRAPHIC ===== */
+.bottom-graphic {
+  display: flex;
+  justify-content: center;
+  margin: 80px 0 40px;
 }
-.header-title a {
-  color: #6eaaff;
-  text-decoration: none;
+.bottom-graphic img {
+  max-width: 100%;
+  height: auto;
 }
-.header-title a:hover {
-  text-decoration: underline;
-}
+
+/* ===== FOOTER ===== */
 footer {
-  margin-top: 200px;
+  margin-top: 80px;
   text-align: center;
 }
 footer p {
@@ -84,10 +123,32 @@ footer p {
 }
 footer img {
   width: 400px;
+  max-width: 100%;
   border-radius: 50%;
   border: 0px solid #444;
 }
+
+/* ===== MOBILE STYLING ===== */
+@media (max-width: 768px) {
+  .section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .section img,
+  .small-img {
+    max-width: 100%;
+  }
+}
 </style>
+
+<!-- HERO HEADER -->
+<div class="hero-header">
+  <div class="hero-content">
+    <h1><a href="/" class="site-title">THE LOST CONTACT</a></h1>
+    <img src="/assets/img/satellite-header.png" alt="Satellite Graphic">
+  </div>
+</div>
 
 <div class="intro">
   <p>Here is the bulk of my creative work from 2002 onwards. I hope everyone has a laugh and connects with life in the best of ways. Hopefully this work endures after I dodge a phaser blast and head into the chasm of the unknown.<br>
@@ -153,6 +214,11 @@ footer img {
   <a href="https://thelostcontact.github.io/shorts/" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/Shorts2.JPG" alt="Random Shorts" class="small-img">
   </a>
+</div>
+
+<!-- BOTTOM GRAPHIC -->
+<div class="bottom-graphic">
+  <img src="/assets/img/satellite-footer.png" alt="Satellite Footer Graphic">
 </div>
 
 <footer>
