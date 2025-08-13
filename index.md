@@ -41,7 +41,7 @@ a {
   flex: 1 1 auto;
 }
 .hero-content img {
-  max-height: 80px;
+  max-height: 170px;
   width: auto;
   flex-shrink: 0;
 }
