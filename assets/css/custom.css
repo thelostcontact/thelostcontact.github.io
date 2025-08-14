@@ -1,28 +1,25 @@
-/* Container for header title and image */
+/* HEADER */
 .header-flex {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 170px;           /* header height */
-  padding: 0;              /* remove padding */
-  margin: 0;               /* remove margin */
-  background: transparent; /* no glowing box */
-  box-shadow: none;
+  height: 170px;
+  padding: 0;
+  margin: 0;
+  background-color: #f8f8f8; /* Slate grey */
 }
 
-/* Title: restore Slate’s default look */
 #project_title {
   flex: 1 1 50%;
-  margin: 0 0 0 20px;       /* left margin for spacing */
-  font-size: 2.5rem;        /* Slate size */
+  margin: 0 0 0 20px;
+  font-size: 2.5rem;
   font-weight: 700;
   line-height: 1;
-  color: white;
+  color: #333;
   display: flex;
   align-items: center;
 }
 
-/* Title link styling */
 #project_title a {
   color: inherit;
   text-decoration: none;
@@ -31,22 +28,67 @@
   text-decoration: underline;
 }
 
-/* Header image fills half width and full height exactly */
 .header-logo {
   flex: 1 1 50%;
   height: 100%;
   width: auto;
-  object-fit: cover; /* makes sure it fully fills */
+  object-fit: cover;
   margin: 0;
   padding: 0;
   display: block;
-  border: none;
-  box-shadow: none;
-  background: none;
 }
 
-/* Responsive tweaks */
-@media (max-width: 600px) {
+/* MAIN PAGE AREA */
+.page-content {
+  background-color: #fff; /* Default Slate white */
+  color: #111; /* Black text */
+  max-width: 960px;
+  margin: 2em auto;
+  padding: 0 1em;
+}
+
+/* SECTION STYLING */
+.section {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 80px;
+  gap: 40px;
+}
+
+.section img {
+  max-width: 320px;
+  height: auto;
+}
+
+.section .text {
+  flex: 1;
+  max-width: 600px;
+}
+
+.section h2 {
+  font-size: 1.4em;
+  color: #444;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+
+.section h2 a {
+  color: #444;
+  text-decoration: none;
+}
+.section h2 a:hover {
+  text-decoration: underline;
+}
+
+.section p {
+  margin: 0;
+  color: #111;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
   .header-flex {
     flex-wrap: wrap;
     height: auto;
@@ -54,12 +96,21 @@
   #project_title {
     flex: 1 1 100%;
     font-size: 1.8rem;
-    margin: 0 0 0.5em 0;
+    margin: 0.5em 0;
+    text-align: center;
   }
   .header-logo {
     flex: 1 1 100%;
     height: auto;
-    max-height: 80px;
+    max-height: 100px;
     object-fit: contain;
+  }
+  .section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .section img {
+    max-width: 100%;
   }
 }
