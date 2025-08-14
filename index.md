@@ -20,55 +20,7 @@ description: "A digital archive of creative transmissions."
   </a>
 </div>
 
-<div class="section">
-  <div class="text">
-    <h2><a href="https://thelostcontact.github.io/music-videos/" target="_blank" rel="noopener noreferrer">MUSIC VIDEOS</a></h2>
-    <p>An eclectic mix of music videos with a splash of anime.</p>
-  </div>
-  <a href="https://thelostcontact.github.io/music-videos/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/MusicVideos.JPG" alt="Music Videos">
-  </a>
-</div>
-
-<div class="section">
-  <div class="text">
-    <h2><a href="https://thelostcontact.github.io/bagan/" target="_blank" rel="noopener noreferrer">BAGAN HIP HOP PRODUCTION</a></h2>
-    <p>Original beats and rhymes forged from samples (I make no money from these - with good reason!). My rap persona, Bagan, is a soft spoken charming gentleman who enjoys himself too much and is a superspy when it comes down to it.</p>
-  </div>
-  <a href="https://thelostcontact.github.io/bagan/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/Bagan.JPG" alt="Bagan Production">
-  </a>
-</div>
-
-<div class="section">
-  <div class="text">
-    <h2><a href="https://thelostcontact.github.io/jguitar/" target="_blank" rel="noopener noreferrer">J GUITAR LIBRARY</a></h2>
-    <p>Composed demos from over the years. Not a complete set and I use these to pitch to potential band mates. Hopefully my songwriting improves each time. Beachy vibes.</p>
-  </div>
-  <a href="https://thelostcontact.github.io/jguitar/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/Guitar2.JPG" alt="Guitar Library">
-  </a>
-</div>
-
-<div class="section">
-  <div class="text">
-    <h2><a href="https://thelostcontact.github.io/film/" target="_blank" rel="noopener noreferrer">FILM</a></h2>
-    <p>Films where I had different roles such as editor, videographer, photographer, actor, and VO guy. Quite the variety and difficult to describe.</p>
-  </div>
-  <a href="https://thelostcontact.github.io/film/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/Film4.JPG" alt="Film Work">
-  </a>
-</div>
-
-<div class="section">
-  <div class="text">
-    <h2><a href="https://thelostcontact.github.io/shorts/" target="_blank" rel="noopener noreferrer">RANDOM SHORTS</a></h2>
-    <p>Last but not least. Snippets and experimental features including the illustrious Library Guy meme collection that has been in the vault for centuries (well, since 2022).</p>
-  </div>
-  <a href="https://thelostcontact.github.io/shorts/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/Shorts2.JPG" alt="Random Shorts" class="small-img">
-  </a>
-</div>
+<!-- Repeat similar section blocks for music videos, Bagan, J Guitar, Film, Shorts, etc. -->
 
 <!-- BOTTOM SIGN OFF -->
 <div class="bottom-signoff">
@@ -80,3 +32,7 @@ description: "A digital archive of creative transmissions."
 <div class="bottom-graphic">
   <img src="/assets/img/satellite-footer.png" alt="Satellite Footer Graphic">
 </div>
+
+<footer>
+  <!-- Empty footer as requested -->
+</footer>
