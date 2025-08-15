@@ -88,7 +88,7 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
 /* Body footer section with light grey background */
 .body-footer {
   text-align: center;
-  background-color: #eeeeee; /* light grey */
+  background-color: #f5f5f5; /* light grey */
   padding: 20px 0;
 }
 .body-footer p {
