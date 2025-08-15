@@ -76,6 +76,14 @@ a {
   text-decoration: underline;
 }
 
+/* Remove any default Slate/Theme content box colors */
+main, .main-content, #main-content, .page-content, .wrapper {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
 /* Body footer section */
 .body-footer {
   text-align: center;
@@ -99,6 +107,7 @@ footer {
   border: none !important;
   padding: 0 !important;
   margin: 0 !important;
+  box-shadow: none !important;
 }
 </style>
 
