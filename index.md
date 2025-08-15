@@ -95,15 +95,13 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   color: #000000; /* black text for contrast */
 }
 
-/* Full-width image at bottom */
-.full-width-image-container {
-  width: 100vw; /* full viewport width */
-  margin-left: calc(-50vw + 50%); /* break out of centered body */
-  overflow: hidden;
-}
-.full-width-image-container img {
+/* Image inside footer */
+.body-footer img.footer-banner {
   width: 100%;
+  height: auto;
   display: block;
+  margin-top: 20px;
+  border-radius: 0; /* optional: remove border-radius for full-width look */
 }
 
 /* Override Slate footer completely */
@@ -186,11 +184,9 @@ footer {
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" style="width: 400px; border-radius: 50%;">
-</div>
-
-<!-- FULL-WIDTH IMAGE -->
-<div class="full-width-image-container">
-  <img src="/assets/img/footer_banner.png" alt="Full Width Banner">
+  
+  <!-- Footer banner inside grey area -->
+  <img src="/assets/img/footer_banner.png" alt="Footer Banner" class="footer-banner">
 </div>
 
 <footer></footer>
