@@ -85,14 +85,14 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   margin: 0 !important;
 }
 
-/* Body footer section with transparent background */
+/* Body footer section with light grey background */
 .body-footer {
   text-align: center;
-  background: none !important;
+  background-color: #2a2a2a; /* light/medium grey instead of black */
   padding: 20px 0;
 }
 .body-footer p {
-  color: #111111; /* match body text color */
+  color: #ffffff; /* white text for contrast */
 }
 
 /* Full-width image at bottom */
@@ -178,7 +178,7 @@ footer {
   </a>
 </div>
 
-<!-- BODY FOOTER (transparent background) -->
+<!-- BODY FOOTER (light grey background) -->
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" style="width: 400px; border-radius: 50%;">
