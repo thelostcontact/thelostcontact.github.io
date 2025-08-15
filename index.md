@@ -75,18 +75,8 @@ a {
 .header-title a:hover {
   text-decoration: underline;
 }
-footer {
-  margin-top: 0;
-  text-align: center;
-}
-footer p {
-  color: #111111;
-}
-.full-width-image {
-  width: 100%;
-  display: block;
-  margin-top: 40px;
-}
+
+/* Body footer section */
 .body-footer {
   text-align: center;
   background-color: #0e0e0e; /* match body background */
@@ -94,6 +84,21 @@ footer p {
 }
 .body-footer p {
   color: #ffffff;
+}
+
+/* Full-width image at bottom */
+.full-width-image {
+  width: 100%;
+  display: block;
+  margin-top: 40px;
+}
+
+/* Override Slate footer so no black box */
+footer {
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 </style>
 
@@ -163,7 +168,7 @@ footer p {
   </a>
 </div>
 
-<!-- FOOTER CONTENT MOVED INTO BODY -->
+<!-- BODY FOOTER -->
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" style="width: 400px; border-radius: 50%;">
