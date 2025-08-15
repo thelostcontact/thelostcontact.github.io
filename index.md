@@ -6,7 +6,7 @@ description: "A digital archive of creative transmissions."
 
 <style>
 body {
-  background-color: #0e0e0e;
+  background-color: #0e0e0e; /* black bars on sides */
   color: #ffffff;
   font-family: 'Roboto Mono', monospace;
   font-size: 0.8em;
@@ -14,11 +14,12 @@ body {
   margin: 0;
 }
 
-/* Main content padding, excludes footer */
+/* Main content wrapper centered, transparent background */
 .content-wrapper {
   padding: 20px;
   max-width: 960px;
   margin: 0 auto;
+  background: none; /* ensures black shows on sides */
 }
 
 a {
@@ -32,6 +33,7 @@ a {
   justify-content: space-between;
   margin-bottom: 80px;
   gap: 40px;
+  background: none; /* transparent sections */
 }
 
 .section img {
