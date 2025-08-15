@@ -88,11 +88,11 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
 /* Body footer section with light grey background */
 .body-footer {
   text-align: center;
-  background-color: #2a2a2a; /* light/medium grey instead of black */
+  background-color: #eeeeee; /* light grey */
   padding: 20px 0;
 }
 .body-footer p {
-  color: #ffffff; /* white text for contrast */
+  color: #000000; /* black text for contrast */
 }
 
 /* Full-width image at bottom */
