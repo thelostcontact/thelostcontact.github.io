@@ -76,16 +76,16 @@ a {
   text-decoration: underline;
 }
 footer {
-  margin-top: 200px;
+  margin-top: 0; /* No large space since it's empty now */
   text-align: center;
 }
 footer p {
   color: #111111;
 }
-footer img {
-  width: 400px;
-  border-radius: 50%;
-  border: 0px solid #444;
+.full-width-image {
+  width: 100%;
+  display: block;
+  margin-top: 40px;
 }
 </style>
 
@@ -155,7 +155,14 @@ footer img {
   </a>
 </div>
 
-<footer>
+<!-- FOOTER CONTENT MOVED INTO BODY -->
+<div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
-  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
-</footer>
+  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" style="width: 400px; border-radius: 50%;">
+</div>
+
+<!-- FULL-WIDTH IMAGE -->
+<img src="/assets/img/your-new-image.jpg" alt="Full Width Banner" class="full-width-image">
+
+<!-- EMPTY FOOTER -->
+<footer></footer>
