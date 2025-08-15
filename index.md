@@ -76,22 +76,23 @@ a {
   text-decoration: underline;
 }
 
-/* Remove any default Slate/Theme content box colors */
-main, .main-content, #main-content, .page-content, .wrapper {
+/* Remove Slate default backgrounds */
+main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   background: none !important;
   border: none !important;
   box-shadow: none !important;
   padding: 0 !important;
+  margin: 0 !important;
 }
 
-/* Body footer section */
+/* Body footer section with transparent background */
 .body-footer {
   text-align: center;
-  background-color: #0e0e0e; /* match body background */
+  background: none !important;
   padding: 20px 0;
 }
 .body-footer p {
-  color: #ffffff;
+  color: #111111; /* match body text color */
 }
 
 /* Full-width image at bottom */
@@ -101,7 +102,7 @@ main, .main-content, #main-content, .page-content, .wrapper {
   margin-top: 40px;
 }
 
-/* Override Slate footer so no black box */
+/* Override Slate footer completely */
 footer {
   background: none !important;
   border: none !important;
@@ -177,7 +178,7 @@ footer {
   </a>
 </div>
 
-<!-- BODY FOOTER -->
+<!-- BODY FOOTER (transparent background) -->
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" style="width: 400px; border-radius: 50%;">
@@ -186,5 +187,4 @@ footer {
 <!-- FULL-WIDTH IMAGE -->
 <img src="/assets/img/your-new-image.jpg" alt="Full Width Banner" class="full-width-image">
 
-<!-- EMPTY FOOTER -->
 <footer></footer>
