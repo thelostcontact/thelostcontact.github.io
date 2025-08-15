@@ -14,9 +14,9 @@ body {
   margin: 0;
 }
 
-/* Main content padding only at top/sides, not bottom */
+/* Main content padding, excludes footer */
 .content-wrapper {
-  padding: 20px 20px 0 20px;
+  padding: 20px;
   max-width: 960px;
   margin: 0 auto;
 }
@@ -79,21 +79,6 @@ a {
   color: #111111;
 }
 
-.header-title {
-  font-size: 1.6em;
-  margin-bottom: 40px;
-  text-align: center;
-}
-
-.header-title a {
-  color: #6eaaff;
-  text-decoration: none;
-}
-
-.header-title a:hover {
-  text-decoration: underline;
-}
-
 /* Remove Slate default backgrounds */
 main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   background: none !important;
@@ -111,19 +96,28 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   margin: 0;
 }
 
+/* Footer text */
 .body-footer p {
   color: #000000;
-  margin: 20px 0 0 0;
+  margin: 20px 0 0 0; /* optional spacing above text */
   padding: 0;
 }
 
-/* Footer banner image flush against grey and page bottom */
-.body-footer img.footer-banner {
-  width: 100%;
-  height: auto;
+/* Footer images flush to edges */
+.body-footer img {
   display: block;
   margin: 0;
+  width: 100%;
+  height: auto;
   border-radius: 0;
+}
+
+/* Footer circle image */
+.body-footer img.circle {
+  width: 400px;
+  max-width: 90%;
+  border-radius: 50%;
+  margin: 0 auto;
 }
 
 /* Override Slate footer completely */
@@ -143,10 +137,11 @@ footer {
     Broadcasting from beyond: <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
   </div>
 
+  <!-- Sections -->
   <div class="section">
     <div class="text">
       <h2><a href="https://thelostcontact.github.io/mixtapes/" target="_blank" rel="noopener noreferrer">MIXTAPES</a></h2>
-      <p>Custom blends, edits, and remixes...</p>
+      <p>Custom blends, edits, and remixes that are re-ordered and trimmed...</p>
     </div>
     <a href="https://thelostcontact.github.io/mixtapes/" target="_blank" rel="noopener noreferrer">
       <img src="/assets/img/Clouds.JPG" alt="Hip Hop Mixtapes">
@@ -204,10 +199,10 @@ footer {
   </div>
 </div>
 
-<!-- BODY FOOTER -->
+<!-- BODY FOOTER (flush to bottom) -->
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
-  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" style="width: 400px; border-radius: 50%; margin-bottom:0;">
+  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" class="circle">
   <img src="/assets/img/footer_banner.png" alt="Footer Banner" class="footer-banner">
 </div>
 
