@@ -89,19 +89,22 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
 .body-footer {
   text-align: center;
   background-color: #f2f2f2; /* light grey */
-  padding: 20px 0;
+  padding: 0; /* remove all padding */
+  margin: 0;
 }
 .body-footer p {
   color: #000000; /* black text for contrast */
+  margin: 20px 0 0 0; /* keep some spacing for text only */
+  padding: 0;
 }
 
-/* Image inside footer */
+/* Footer banner image */
 .body-footer img.footer-banner {
   width: 100%;
   height: auto;
   display: block;
-  margin-top: 20px;
-  border-radius: 0; /* optional: remove border-radius for full-width look */
+  margin: 0; /* flush against grey edges */
+  border-radius: 0; /* remove any rounding */
 }
 
 /* Override Slate footer completely */
@@ -183,9 +186,9 @@ footer {
 <!-- BODY FOOTER (light grey background) -->
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
-  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" style="width: 400px; border-radius: 50%;">
+  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" style="width: 400px; border-radius: 50%; margin-bottom:0;">
   
-  <!-- Footer banner inside grey area -->
+  <!-- Footer banner flush against grey edges -->
   <img src="/assets/img/footer_banner.png" alt="Footer Banner" class="footer-banner">
 </div>
 
