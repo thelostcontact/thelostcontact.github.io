@@ -96,10 +96,14 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
 }
 
 /* Full-width image at bottom */
-.full-width-image {
+.full-width-image-container {
+  width: 100vw; /* full viewport width */
+  margin-left: calc(-50vw + 50%); /* break out of centered body */
+  overflow: hidden;
+}
+.full-width-image-container img {
   width: 100%;
   display: block;
-  margin-top: 40px;
 }
 
 /* Override Slate footer completely */
@@ -185,6 +189,8 @@ footer {
 </div>
 
 <!-- FULL-WIDTH IMAGE -->
-<img src="/assets/img/footer_banner.png" alt="Full Width Banner" class="full-width-image">
+<div class="full-width-image-container">
+  <img src="/assets/img/footer_banner.png" alt="Full Width Banner">
+</div>
 
 <footer></footer>
