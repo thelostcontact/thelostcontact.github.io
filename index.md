@@ -88,7 +88,7 @@ description: "A digital archive of creative transmissions."
 <style>
 /* ===== BASE ===== */
 body {
-  background-color: #0e0e0e;  /* black sidebars */
+  background-color: #0e0e0e;  /* black background */
   color: #111111;
   font-family: 'Roboto Mono', monospace;
   font-size: 0.8em;
@@ -100,12 +100,13 @@ body {
 a { color: #6eaaff; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/* Content wrapper */
+/* Content wrapper (grey body, centered, black sidebars) */
 .content-wrapper {
   max-width: 960px;
   margin: 0 auto;
   padding: 20px;
-  background: none;
+  background: #f2f2f2;   /* grey body */
+  min-height: 100vh;
 }
 
 /* Sections */
@@ -116,8 +117,6 @@ a:hover { text-decoration: underline; }
   justify-content: space-between;
   margin-bottom: 80px;
   gap: 40px;
-  background-color: #f2f2f2;
-  padding: 20px 30px;
 }
 .section img {
   max-width: 320px;
@@ -132,7 +131,6 @@ a:hover { text-decoration: underline; }
 
 /* Intro */
 .intro {
-  background-color: #f2f2f2;
   padding: 40px 30px;
   margin-bottom: 60px;
   color: #111;
@@ -154,7 +152,7 @@ a:hover { text-decoration: underline; }
 /* Footer banner */
 .footer-banner {
   width: 100%;
-  height: 200px; /* adjust height as needed */
+  height: 200px;
   background: url('/assets/img/footer_banner.png') no-repeat center center;
   background-size: cover;
   margin: 0;
@@ -163,7 +161,8 @@ a:hover { text-decoration: underline; }
 
 /* Footer */
 footer {
-  margin-top: 0;
+  margin: 0;
+  padding: 0;
   text-align: center;
 }
 
