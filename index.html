@@ -9,7 +9,7 @@
     body {
       background-color: #f2f2f2;
       color: #111111;
-      font-family: 'Arial', 'Myriad Pro', Calibri, Helvetica, sans-serif;
+      font-family: 'Roboto Mono', monospace; /* default for body */
       font-size: 0.8em;
       line-height: 1.6;
       margin: 0;
@@ -25,14 +25,14 @@
       padding: 40px 0;
     }
 
-    /* thinner black side bars */
+    /* thicker black side bars */
     .site-wrapper::before,
     .site-wrapper::after {
       content: '';
       position: absolute;
       top: 0;
       bottom: 0;
-      width: 8vw; /* slightly thinner than before */
+      width: 15vw; /* wider than before */
       background-color: #000000;
       z-index: 0;
     }
@@ -40,7 +40,7 @@
     .site-wrapper::after { right: 0; }
 
     .content-wrapper {
-      width: 1000px; /* wider content area */
+      width: 900px; /* thinner grey content area */
       background-color: #f2f2f2;
       padding: 0;
       position: relative;
@@ -54,11 +54,10 @@
       align-items: center;
       background-color: #303030;
       margin-bottom: 60px;
-      padding: 0;
     }
 
     .site-header h1 {
-      font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+      font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif; /* Slate style only for header title */
       font-size: 3em;
       margin: 0;
       color: #ffffff;
@@ -116,10 +115,10 @@
     .body-footer img { max-height: 100px; width: auto; border-radius: 50%; }
 
     /* ===== FULL-WIDTH IMAGE ===== */
-    .full-width-image { width: 100%; display: block; margin-top: 40px; }
+    .full-width-image { width: 100%; display: block; margin-top: 40px; margin-bottom: 0; }
 
     /* ===== FOOTER ===== */
-    footer { margin-top: 80px; text-align: center; }
+    footer { margin-top: 0; text-align: center; }
 
     /* ===== MOBILE ===== */
     @media (max-width: 768px) {
