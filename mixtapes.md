@@ -38,7 +38,7 @@ To experience the tapes:
 
 | Folder | Description | Links |
 |--------|-------------|-------|
-| 🎮 FilmGames | This side archive collects tracks inspired by specific films, TV shows, or games. These tracks are from different mixtapes. LOTR, SW, and Bond have some of my favourite music so it is always a pleasure to find new tracks or to work with the original scores.| [📥 Download Folder](https://mega.nz/folder/S45GhI6J#7leHiK7YQYzfJABLfM75bA){:target="_blank"} |
+| 🎮 FilmGames | This side archive collects tracks inspired by specific films, TV shows, or games. These tracks are from different mixtapes. LOTR, SW, and Bond etc.| [📥 Download Folder](https://mega.nz/folder/S45GhI6J#7leHiK7YQYzfJABLfM75bA){:target="_blank"} |
 
 ---
 
