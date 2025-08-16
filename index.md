@@ -89,13 +89,22 @@ description: "A digital archive of creative transmissions."
 
 <style>
 /* ===== BODY / SLATE THEME BASE ===== */
-body {
-  background-color: #0e0e0e;  /* Slate dark background */
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: #0e0e0e;  /* vertical black bars */
   color: #ffffff;
   font-family: 'Roboto Mono', monospace;
   font-size: 0.8em;
   line-height: 1.6;
-  margin: 0;
+}
+
+/* Center content and create black side margins */
+.content-wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  background: none;
 }
 
 /* Links */
@@ -105,14 +114,6 @@ a {
 }
 a:hover {
   text-decoration: underline;
-}
-
-/* Content wrapper */
-.content-wrapper {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 20px;
-  background: none;
 }
 
 /* Sections */
@@ -181,10 +182,13 @@ a:hover {
   border: 0 solid #444;
 }
 
-/* Breakout banner */
+/* Breakout banner hugs bottom */
 .breakout-banner {
-  background-color: #f2f2f2; /* grey behind banner */
+  position: absolute;
+  bottom: 0;
+  left: 0;
   width: 100%;
+  background-color: #f2f2f2;
   padding: 0;
   margin: 0;
 }
