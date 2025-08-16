@@ -5,10 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Lost Contact</title>
   <meta name="description" content="A digital archive of creative transmissions.">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+  <!-- Slate font -->
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
-      background-color: #f2f2f2; /* changed from black */
+      background-color: #f2f2f2;
       color: #111111;
       font-family: 'Roboto Mono', monospace;
       font-size: 0.8em;
@@ -25,11 +26,11 @@
       display: flex;
       justify-content: center;
       background-color: #000000; /* black side bars */
-      padding: 40px 0; /* vertical spacing for top/bottom */
+      padding: 40px 0;
     }
     .content-wrapper {
-      width: 800px; /* narrower content */
-      padding: 20px;
+      width: 800px;
+      padding: 0; /* remove extra padding for flush header image */
     }
 
     /* ===== HEADER ===== */
@@ -38,21 +39,23 @@
       justify-content: space-between;
       align-items: center;
       background-color: #303030;
-      padding: 20px 40px;
       margin-bottom: 60px;
     }
     .site-header h1 {
-      font-family: 'Roboto Mono', monospace;
-      font-size: 2.5em; /* Slate H1 size approximation */
+      font-family: 'IBM Plex Mono', monospace; /* Slate header font */
+      font-size: 3em; /* closer to Slate H1 */
       margin: 0;
       color: #ffffff;
       text-transform: lowercase;
+      padding: 20px 40px;
     }
     .site-header img {
       max-width: 480px;
       max-height: 170px;
-      width: auto;
       height: auto;
+      width: auto;
+      display: block;
+      margin: 0; /* flush against edges */
     }
 
     /* ===== SECTIONS ===== */
@@ -102,6 +105,7 @@
     .intro {
       margin-bottom: 80px;
       color: #111111;
+      padding: 0 20px;
     }
 
     /* ===== BODY FOOTER ===== */
@@ -150,11 +154,14 @@
       .site-header {
         flex-direction: column;
         text-align: center;
-        gap: 20px;
+      }
+      .site-header h1 {
+        padding: 20px;
       }
       .site-header img {
         max-width: 80%;
         height: auto;
+        margin: 0;
       }
     }
   </style>
