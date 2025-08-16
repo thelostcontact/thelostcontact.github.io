@@ -98,33 +98,35 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   margin: 0 !important;
 }
 
-/* Body footer section with light grey background */
+/* BODY FOOTER - full width of viewport */
 .body-footer {
   text-align: center;
   background-color: #f2f2f2; /* light grey */
-  padding: 20px 0 0 0;
+  padding: 0;
+  margin: 0;
+  width: 100vw; /* full viewport width */
+  box-sizing: border-box;
 }
 
 /* Footer text */
 .body-footer p {
   color: #000000;
-  margin: 0 0 20px 0;
+  margin: 20px 0 0 0;
   padding: 0;
 }
 
-/* Footer circle image */
+/* Circle image in footer */
 .body-footer img.circle {
   width: 400px;
   max-width: 90%;
   border-radius: 50%;
   display: block;
-  margin: 0 auto 20px auto;
+  margin: 20px auto 0 auto;
 }
 
-/* Footer banner flush to grey edges */
+/* Bottom banner flush to grey edges */
 .body-footer img.full-width-image {
   width: 100%;
-  height: auto;
   display: block;
   margin: 0;
   padding: 0;
