@@ -80,7 +80,7 @@ description: "A digital archive of creative transmissions."
 
 </div>
 
-<!-- Breakout banner (fills between bars + hugs bottom) -->
+<!-- Breakout banner (fills grey middle, hugs bottom) -->
 <div class="breakout-banner">
   <img src="/assets/img/footer_banner.png" alt="Full Width Banner">
 </div>
@@ -185,16 +185,16 @@ a:hover { text-decoration: underline; }
   border: 0 solid #444;
 }
 
-/* Breakout banner (between bars, flush bottom) */
+/* Breakout banner (fills grey strip fully) */
 .breakout-banner {
-  max-width: 960px;
-  margin: 0 auto;
+  width: 960px;         /* exactly the width of the content strip */
+  margin: 0 auto;       /* center between black bars */
   position: relative;
   z-index: 1;
 }
 .breakout-banner img {
   display: block;
-  width: 100%;
+  width: 100%;          /* fill grey strip */
   height: auto;
 }
 
@@ -214,5 +214,6 @@ footer {
   .section img,
   .small-img { max-width: 100%; }
   .bottom-signoff img { max-height: 70px; }
+  .breakout-banner { width: 100%; } /* On small screens it should stretch fully */
 }
 </style>
