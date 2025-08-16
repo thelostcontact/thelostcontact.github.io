@@ -1,17 +1,24 @@
-/* ===== BODY ===== */
+/* ===== BODY / SLATE THEME BASE ===== */
 body {
-  background-color: #0e0e0e; /* black sidebars */
+  background-color: #0e0e0e;  /* black sidebars */
   color: #ffffff;
   font-family: 'Roboto Mono', monospace;
   font-size: 0.8em;
   line-height: 1.6;
-  padding: 20px;
-  max-width: 960px;
-  margin: 0 auto;
+  margin: 0;
 }
 
+/* Links */
 a {
   color: #6eaaff;
+}
+
+/* ===== CONTENT WRAPPER ===== */
+.content-wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  background: none; /* keep Slate style */
 }
 
 /* ===== SECTIONS ===== */
@@ -95,34 +102,27 @@ a {
 
 /* ===== BREAKOUT BANNER ===== */
 .breakout-banner {
-  width: 100vw;          /* full viewport width */
-  margin: 0;
+  background-color: #f2f2f2; /* grey behind the banner only */
+  width: 100%;
   padding: 0;
-  background-color: #f2f2f2; /* grey background */
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
+  margin: 0;
 }
 
 .breakout-banner img {
-  width: 100%;
-  max-width: none;
   display: block;
+  width: 100%;
+  height: auto;
   margin: 0;
   padding: 0;
-  border-radius: 0;
 }
 
 /* ===== FOOTER ===== */
 footer {
-  background: none !important;
-  border: none !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  box-shadow: none !important;
+  margin-top: 80px;
+  text-align: center;
 }
 
-/* ===== MOBILE ===== */
+/* ===== MOBILE STYLING ===== */
 @media (max-width: 768px) {
   .section {
     flex-direction: column;
@@ -132,8 +132,5 @@ footer {
   .section img,
   .small-img {
     max-width: 100%;
-  }
-  .bottom-signoff img {
-    max-height: 70px;
   }
 }
