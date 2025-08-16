@@ -80,7 +80,7 @@ description: "A digital archive of creative transmissions."
 
 </div>
 
-<!-- Breakout banner -->
+<!-- Breakout banner (fills between bars + hugs bottom) -->
 <div class="breakout-banner">
   <img src="/assets/img/footer_banner.png" alt="Full Width Banner">
 </div>
@@ -93,9 +93,9 @@ html, body {
   height: 100%;
   margin: 0;
   font-family: 'Roboto Mono', monospace;
-  font-size: 0.8em;
-  line-height: 1.6;
-  background-color: #f2f2f2; /* grey behind content and banner */
+  font-size: 1em; /* Larger body text */
+  line-height: 1.7;
+  background-color: #f2f2f2; /* grey middle */
   position: relative;
   color: #ffffff;
 }
@@ -115,10 +115,7 @@ body::before { left: 0; }
 body::after { right: 0; }
 
 /* Links */
-a {
-  color: #6eaaff;
-  text-decoration: none;
-}
+a { color: #6eaaff; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 /* Content wrapper */
@@ -176,7 +173,7 @@ a:hover { text-decoration: underline; }
   gap: 12px;
   margin-bottom: 0;
   color: #6eaaff;
-  font-size: 0.9em;
+  font-size: 1em;
   text-align: center;
   position: relative;
   z-index: 1;
@@ -188,12 +185,12 @@ a:hover { text-decoration: underline; }
   border: 0 solid #444;
 }
 
-/* Breakout banner */
+/* Breakout banner (between bars, flush bottom) */
 .breakout-banner {
-  background-color: #f2f2f2;
-  width: 100%;
-  padding: 0;
-  margin: 0;
+  max-width: 960px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
 }
 .breakout-banner img {
   display: block;
@@ -203,7 +200,7 @@ a:hover { text-decoration: underline; }
 
 /* Footer */
 footer {
-  margin-top: 80px;
+  margin: 0;
   text-align: center;
 }
 
