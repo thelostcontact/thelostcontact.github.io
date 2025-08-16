@@ -18,37 +18,15 @@ body {
 
 a { color: #6eaaff; }
 
-.section {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: space-between;
-  margin-bottom: 80px;
-  gap: 40px;
-}
+.section { display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between; margin-bottom: 80px; gap: 40px; }
 
-.section img {
-  max-width: 320px;
-  height: auto;
-  border: 2px solid #444;
-  border-radius: 4px;
-}
+.section img { max-width: 320px; height: auto; border: 2px solid #444; border-radius: 4px; }
 
-.small-img {
-  max-width: 260px;
-  height: auto;
-  border: 2px solid #444;
-  border-radius: 4px;
-}
+.small-img { max-width: 260px; height: auto; border: 2px solid #444; border-radius: 4px; }
 
 .section .text { flex: 1; max-width: 600px; }
 
-.section h2 {
-  font-size: 1.4em;
-  color: #444444;
-  margin-bottom: 12px;
-  font-weight: 600;
-}
+.section h2 { font-size: 1.4em; color: #444444; margin-bottom: 12px; font-weight: 600; }
 
 .section h2 a { color: #444444; text-decoration: none; }
 .section h2 a:hover { text-decoration: underline; }
@@ -57,12 +35,7 @@ a { color: #6eaaff; }
 
 .intro { margin-bottom: 80px; color: #111111; }
 
-.header-title {
-  font-size: 1.6em;
-  margin-bottom: 40px;
-  text-align: center;
-}
-
+.header-title { font-size: 1.6em; margin-bottom: 40px; text-align: center; }
 .header-title a { color: #6eaaff; text-decoration: none; }
 .header-title a:hover { text-decoration: underline; }
 
@@ -75,47 +48,38 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   margin: 0 !important;
 }
 
-/* Body footer section with light grey background */
+/* Body footer section with circle image and text */
 .body-footer {
   text-align: center;
   background-color: #f2f2f2;
   padding: 20px 0;
 }
 
-.body-footer p { color: #000000; }
+.body-footer p { color: #000000; margin: 0 0 10px 0; }
+.body-footer img.circle { width: 400px; max-width: 90%; border-radius: 50%; display: block; margin: 0 auto; }
 
-.body-footer img.circle {
-  width: 400px;
-  max-width: 90%;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto;
-}
-
-/* Full-width bottom banner section */
+/* Full-width bottom banner escaping template constraints */
 .bottom-banner {
-  width: 100%;
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  transform: translateX(-50%);
   background-color: #f2f2f2;
   margin: 0;
   padding: 0;
 }
 
 .bottom-banner img {
-  width: 100%;
   display: block;
+  width: 100%;
+  height: auto;
   margin: 0;
   padding: 0;
   border-radius: 0;
 }
 
 /* Override Slate footer completely */
-footer {
-  background: none !important;
-  border: none !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  box-shadow: none !important;
-}
+footer { background: none !important; border: none !important; padding: 0 !important; margin: 0 !important; box-shadow: none !important; }
 </style>
 
 <div class="intro">
@@ -184,13 +148,13 @@ footer {
   </a>
 </div>
 
-<!-- BODY FOOTER (circle image and text) -->
+<!-- BODY FOOTER -->
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" class="circle">
 </div>
 
-<!-- FULL-WIDTH BOTTOM BANNER OUTSIDE MAIN CONTENT -->
+<!-- FULL-WIDTH BOTTOM BANNER -->
 <div class="bottom-banner">
   <img src="/assets/img/footer_banner.png" alt="Footer Banner">
 </div>
