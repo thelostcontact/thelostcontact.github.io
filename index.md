@@ -78,7 +78,7 @@ description: "A digital archive of creative transmissions."
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
 </div>
 
-<!-- Breakout Full-Width Footer Banner -->
+<!-- BREAKOUT FULL WIDTH BANNER -->
 <div class="breakout-banner">
   <img src="/assets/img/footer_banner.png" alt="Footer Banner">
 </div>
