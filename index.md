@@ -31,7 +31,7 @@ description: "A digital archive of creative transmissions."
 
 <!-- BREAKOUT BANNER OUTSIDE WRAPPER -->
 <div class="breakout-banner-wrapper">
-  <div class="breakout-banner">
+  <div class="breakout-banner-inner">
     <img src="/assets/img/footer_banner.png" alt="Footer Banner">
   </div>
 </div>
