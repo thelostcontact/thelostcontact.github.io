@@ -122,8 +122,14 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   margin: 0 auto;
 }
 
-/* Full-width bottom image flush to grey edges, no padding */
-.full-width-image {
+/* Bottom banner section (flush, no padding) */
+.bottom-banner-section {
+  background-color: #f2f2f2; /* same grey as footer */
+  margin: 0;
+  padding: 0;
+}
+
+.bottom-banner-section img {
   width: 100%;
   display: block;
   margin: 0;
@@ -207,11 +213,15 @@ footer {
   </a>
 </div>
 
-<!-- BODY FOOTER (light grey background, no padding) -->
+<!-- BODY FOOTER (light grey, circle image remains) -->
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" class="circle">
-  <img src="/assets/img/footer_banner.png" alt="Footer Banner" class="full-width-image">
+</div>
+
+<!-- BOTTOM FULL-WIDTH IMAGE SECTION (flush to sides and bottom) -->
+<div class="bottom-banner-section">
+  <img src="/assets/img/footer_banner.png" alt="Footer Banner">
 </div>
 
 <footer></footer>

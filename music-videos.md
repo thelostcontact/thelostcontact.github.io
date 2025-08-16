@@ -18,7 +18,7 @@ permalink: /music-videos/
 
 Welcome to my music video collection — a personal timeline of experimental edits, animated sequences, and collaborative works that span nearly two decades. These projects were driven by inspiration, experimentation, and often built from scratch using editing software, game engines, animation tools, or remixing found footage. 
 
-Some are standalone visual pieces; others accompany mixtape tracks or narrative ideas. These are for fun and for a love of editing. As you can tell, I'm not a visual artist by any means; however, there is joy to mixing together different content in accordance with a vision.
+Some are standalone visual pieces; others accompany mixtape tracks or narrative ideas. These are for fun and for a love of editing. There is joy to mixing together different content in accordance with a vision.
 
 ### ▶️ How to Watch
 
