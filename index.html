@@ -7,13 +7,14 @@
   <meta name="description" content="A digital archive of creative transmissions.">
   <style>
     body {
-      background-color: #0e0e0e; /* slate-style black */
-      color: #ffffff;
-      font-family: 'Roboto Mono', monospace;
+      background-color: #f2f2f2;
+      color: #111111;
+      font-family: 'Roboto Mono', monospace; /* default for body */
       font-size: 0.8em;
       line-height: 1.6;
       margin: 0;
     }
+
     a { color: #6eaaff; }
 
     /* ===== SITE WRAPPER WITH SIDE BARS ===== */
@@ -21,16 +22,17 @@
       display: flex;
       justify-content: center;
       position: relative;
-      padding: 0; /* remove top/bottom padding */
-      min-height: 100vh;
+      padding: 40px 0;
     }
+
+    /* thicker black side bars */
     .site-wrapper::before,
     .site-wrapper::after {
       content: '';
       position: absolute;
       top: 0;
       bottom: 0;
-      width: calc((100% - 960px)/2); /* black bars width same as index.md max-width */
+      width: 15vw; /* wider than before */
       background-color: #000000;
       z-index: 0;
     }
@@ -38,11 +40,11 @@
     .site-wrapper::after { right: 0; }
 
     .content-wrapper {
-      width: 960px; /* same as index.md max-width */
+      width: 900px; /* thinner grey content area */
       background-color: #f2f2f2;
-      position: relative;
-      z-index: 1;
       padding: 0;
+      position: relative;
+      z-index: 1; /* above sidebars */
     }
 
     /* ===== HEADER ===== */
@@ -51,24 +53,24 @@
       justify-content: space-between;
       align-items: center;
       background-color: #303030;
-      margin: 0; /* touch top black strip */
-      padding-top: 5px; /* tiny black above header */
+      margin-bottom: 60px;
     }
+
     .site-header h1 {
-      font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+      font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif; /* Slate style only for header title */
       font-size: 3em;
       margin: 0;
       color: #ffffff;
       text-transform: lowercase;
-      padding: 20px 0 20px 0; /* vertical padding only */
-      text-align: center;
-      flex: 1;
+      padding: 20px 40px;
     }
+
     .header-img-wrapper {
       display: flex;
       justify-content: flex-end;
       flex: 1;
     }
+
     .header-img-wrapper img {
       max-width: 480px;
       height: auto;
@@ -84,10 +86,20 @@
       justify-content: space-between;
       margin-bottom: 80px;
       gap: 40px;
-      padding: 0 0px; /* no extra padding so sections align under content-wrapper */
+      padding: 0 20px;
     }
-    .section img { max-width: 320px; height: auto; border: 2px solid #444; border-radius: 4px; }
-    .small-img { max-width: 260px; height: auto; border: 2px solid #444; border-radius: 4px; }
+    .section img {
+      max-width: 320px;
+      height: auto;
+      border: 2px solid #444;
+      border-radius: 4px;
+    }
+    .small-img {
+      max-width: 260px;
+      height: auto;
+      border: 2px solid #444;
+      border-radius: 4px;
+    }
     .section .text { flex: 1; max-width: 600px; }
     .section h2 { font-size: 1.4em; color: #444444; margin-bottom: 12px; font-weight: 600; }
     .section h2 a { color: #444444; text-decoration: none; }
@@ -95,15 +107,10 @@
     .section p { margin: 0; color: #111111; }
 
     /* ===== INTRO ===== */
-    .intro { margin-bottom: 80px; color: #111111; padding: 0 0; }
+    .intro { margin-bottom: 80px; color: #111111; padding: 0 20px; }
 
     /* ===== BODY FOOTER ===== */
-    .body-footer {
-      text-align: center;
-      background-color: #f2f2f2;
-      padding: 20px 0;
-      margin-top: 80px;
-    }
+    .body-footer { text-align: center; background-color: #f2f2f2; padding: 20px 0; margin-top: 80px; }
     .body-footer p { color: #000000; }
     .body-footer img { max-height: 100px; width: auto; border-radius: 50%; }
 
@@ -122,14 +129,13 @@
       .site-header h1 { padding: 20px; }
       .header-img-wrapper { justify-content: center; margin-top: 10px; }
       .header-img-wrapper img { max-width: 80%; height: auto; margin: 0; }
-      .site-wrapper::before,
-      .site-wrapper::after { width: 10vw; } /* slightly smaller on mobile */
     }
   </style>
 </head>
 <body>
   <div class="site-wrapper">
     <div class="content-wrapper">
+
       <!-- HEADER -->
       <header class="site-header">
         <h1>thelostcontact</h1>
@@ -212,7 +218,8 @@
       <!-- BODY FOOTER -->
       <div class="body-footer">
         <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff">
-        <a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
+          <a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.
+        </p>
         <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
       </div>
 
