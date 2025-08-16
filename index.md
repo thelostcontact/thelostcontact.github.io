@@ -80,7 +80,7 @@ description: "A digital archive of creative transmissions."
 
 </div>
 
-<!-- Footer banner (full-width, hugs sidebars) -->
+<!-- Footer banner (full-width, hugs bottom) -->
 <div class="footer-banner"></div>
 
 <footer></footer>
@@ -88,26 +88,29 @@ description: "A digital archive of creative transmissions."
 <style>
 /* ===== BASE ===== */
 body {
-  background-color: #0e0e0e;  /* black background */
-  color: #111111;
+  background-color: #0e0e0e;  /* black bars */
+  margin: 0;
   font-family: 'Roboto Mono', monospace;
   font-size: 0.8em;
   line-height: 1.6;
-  margin: 0;
+  color: #111;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Content wrapper = grey middle strip */
+.content-wrapper {
+  background-color: #f2f2f2;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  flex: 1;
 }
 
 /* Links */
 a { color: #6eaaff; text-decoration: none; }
 a:hover { text-decoration: underline; }
-
-/* Content wrapper (grey body, centered, black sidebars) */
-.content-wrapper {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 20px;
-  background: #f2f2f2;   /* grey body */
-  min-height: 100vh;
-}
 
 /* Sections */
 .section {
@@ -155,14 +158,12 @@ a:hover { text-decoration: underline; }
   height: 200px;
   background: url('/assets/img/footer_banner.png') no-repeat center center;
   background-size: cover;
-  margin: 0;
-  padding: 0;
+  margin-top: auto; /* ensures it hugs bottom */
 }
 
 /* Footer */
 footer {
-  margin: 0;
-  padding: 0;
+  margin-top: 0;
   text-align: center;
 }
 
