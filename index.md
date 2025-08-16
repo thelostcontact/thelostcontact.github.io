@@ -93,11 +93,12 @@ html, body {
   height: 100%;
   margin: 0;
   font-family: 'Roboto Mono', monospace;
-  font-size: 1em; /* Larger body text */
+  font-size: 1em;
   line-height: 1.7;
   background-color: #f2f2f2; /* grey middle */
-  position: relative;
   color: #ffffff;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Vertical black bars on sides */
@@ -126,6 +127,7 @@ a:hover { text-decoration: underline; }
   position: relative;
   z-index: 1;
   background: none;
+  flex: 1 0 auto; /* take up space but leave footer at bottom */
 }
 
 /* Sections */
@@ -171,7 +173,7 @@ a:hover { text-decoration: underline; }
   flex-direction: column;
   align-items: center;
   gap: 12px;
-  margin-bottom: 0;
+  margin-bottom: 40px;
   color: #6eaaff;
   font-size: 1em;
   text-align: center;
@@ -182,26 +184,26 @@ a:hover { text-decoration: underline; }
   max-height: 100px;
   width: auto;
   border-radius: 50%;
-  border: 0 solid #444;
 }
 
-/* Breakout banner (fills grey strip fully) */
+/* Breakout banner (flush bottom, no padding) */
 .breakout-banner {
-  width: 960px;         /* exactly the width of the content strip */
-  margin: 0 auto;       /* center between black bars */
-  position: relative;
-  z-index: 1;
+  width: 960px;
+  margin: 0 auto;
+  flex-shrink: 0;
 }
 .breakout-banner img {
   display: block;
-  width: 100%;          /* fill grey strip */
+  width: 100%;
   height: auto;
+  margin: 0;
 }
 
 /* Footer */
 footer {
   margin: 0;
-  text-align: center;
+  padding: 0;
+  flex-shrink: 0;
 }
 
 /* Mobile responsiveness */
@@ -214,6 +216,6 @@ footer {
   .section img,
   .small-img { max-width: 100%; }
   .bottom-signoff img { max-height: 70px; }
-  .breakout-banner { width: 100%; } /* On small screens it should stretch fully */
+  .breakout-banner { width: 100%; }
 }
 </style>
