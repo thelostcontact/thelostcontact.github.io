@@ -185,6 +185,6 @@ footer {
 </div>
 
 <!-- FULL-WIDTH IMAGE -->
-<img src="/assets/img/your-new-image.jpg" alt="Full Width Banner" class="full-width-image">
+<img src="/assets/img/footer_banner.png" alt="Full Width Banner" class="full-width-image">
 
 <footer></footer>
