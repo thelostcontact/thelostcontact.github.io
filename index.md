@@ -98,19 +98,21 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   margin: 0 !important;
 }
 
-/* Body footer section with light grey background, centered content */
+/* Body footer section with light grey background */
 .body-footer {
   text-align: center;
-  background-color: #f2f2f2;
-  padding: 20px 0;
+  background-color: #f2f2f2; /* light grey */
+  padding: 20px 0 0 0;
 }
 
+/* Footer text */
 .body-footer p {
   color: #000000;
   margin: 0 0 20px 0;
   padding: 0;
 }
 
+/* Footer circle image */
 .body-footer img.circle {
   width: 400px;
   max-width: 90%;
@@ -119,18 +121,8 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   margin: 0 auto 20px auto;
 }
 
-/* Bottom banner that escapes container */
-.bottom-banner {
-  width: 100vw;
-  margin: 0;
-  padding: 0;
-  display: block;
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.bottom-banner img {
+/* Footer banner flush to grey edges */
+.body-footer img.full-width-image {
   width: 100%;
   height: auto;
   display: block;
@@ -215,15 +207,11 @@ footer {
   </a>
 </div>
 
-<!-- BODY FOOTER (grey background with circle image and text) -->
+<!-- BODY FOOTER with circle and bottom banner -->
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" class="circle">
-</div>
-
-<!-- BOTTOM BANNER THAT HUGS SIDES -->
-<div class="bottom-banner">
-  <img src="/assets/img/footer_banner.png" alt="Footer Banner">
+  <img src="/assets/img/footer_banner.png" alt="Footer Banner" class="full-width-image">
 </div>
 
 <footer></footer>
