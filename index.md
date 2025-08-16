@@ -5,20 +5,29 @@ description: "A digital archive of creative transmissions."
 ---
 
 <style>
-body {
+html, body {
+  height: 100%;
+  margin: 0;
   background-color: #0e0e0e; /* black sidebars */
   color: #ffffff;
   font-family: 'Roboto Mono', monospace;
   font-size: 0.8em;
   line-height: 1.6;
-  margin: 0;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Main content wrapper */
 .content-wrapper {
   padding: 20px;
   max-width: 960px;
   margin: 0 auto;
   background: none; /* transparent for black sides */
+  flex: 1; /* allows footer to hug bottom */
 }
 
 a {
@@ -38,14 +47,14 @@ a {
 .section img {
   max-width: 320px;
   height: auto;
-  border: none; /* remove gray border for black sidebars */
+  border: none;
   border-radius: 4px;
 }
 
 .small-img {
   max-width: 260px;
   height: auto;
-  border: none; /* remove border */
+  border: none;
   border-radius: 4px;
 }
 
@@ -56,7 +65,7 @@ a {
 
 .section h2 {
   font-size: 1.4em;
-  color: #ffffff; /* text visible on dark background */
+  color: #ffffff;
   margin-bottom: 12px;
   font-weight: 600;
 }
@@ -72,7 +81,7 @@ a {
 
 .section p {
   margin: 0;
-  color: #cccccc; /* slightly lighter for readability */
+  color: #cccccc;
 }
 
 .intro {
@@ -89,7 +98,7 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
   margin: 0 !important;
 }
 
-/* Body footer section with light grey background, flush to edges */
+/* Footer flush to bottom with light grey background */
 .body-footer {
   text-align: center;
   background-color: #f2f2f2;
