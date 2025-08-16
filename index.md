@@ -15,9 +15,9 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
-a {
-  color: #6eaaff;
-}
+
+a { color: #6eaaff; }
+
 .section {
   display: flex;
   flex-direction: row;
@@ -26,55 +26,45 @@ a {
   margin-bottom: 80px;
   gap: 40px;
 }
+
 .section img {
   max-width: 320px;
   height: auto;
   border: 2px solid #444;
   border-radius: 4px;
 }
+
 .small-img {
   max-width: 260px;
   height: auto;
   border: 2px solid #444;
   border-radius: 4px;
 }
-.section .text {
-  flex: 1;
-  max-width: 600px;
-}
+
+.section .text { flex: 1; max-width: 600px; }
+
 .section h2 {
   font-size: 1.4em;
   color: #444444;
   margin-bottom: 12px;
   font-weight: 600;
 }
-.section h2 a {
-  color: #444444;
-  text-decoration: none;
-}
-.section h2 a:hover {
-  text-decoration: underline;
-}
-.section p {
-  margin: 0;
-  color: #111111;
-}
-.intro {
-  margin-bottom: 80px;
-  color: #111111;
-}
+
+.section h2 a { color: #444444; text-decoration: none; }
+.section h2 a:hover { text-decoration: underline; }
+
+.section p { margin: 0; color: #111111; }
+
+.intro { margin-bottom: 80px; color: #111111; }
+
 .header-title {
   font-size: 1.6em;
   margin-bottom: 40px;
   text-align: center;
 }
-.header-title a {
-  color: #6eaaff;
-  text-decoration: none;
-}
-.header-title a:hover {
-  text-decoration: underline;
-}
+
+.header-title a { color: #6eaaff; text-decoration: none; }
+.header-title a:hover { text-decoration: underline; }
 
 /* Remove Slate default backgrounds */
 main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
@@ -88,18 +78,34 @@ main, .main-content, #main-content, .page-content, .wrapper, .site-footer {
 /* Body footer section with light grey background */
 .body-footer {
   text-align: center;
-  background-color: #f2f2f2; /* light grey */
+  background-color: #f2f2f2;
   padding: 20px 0;
 }
-.body-footer p {
-  color: #000000; /* black text for contrast */
+
+.body-footer p { color: #000000; }
+
+.body-footer img.circle {
+  width: 400px;
+  max-width: 90%;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
 }
 
-/* Full-width image at bottom */
-.full-width-image {
+/* Full-width bottom banner section */
+.bottom-banner {
+  width: 100%;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.bottom-banner img {
   width: 100%;
   display: block;
-  margin-top: 40px;
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
 }
 
 /* Override Slate footer completely */
@@ -178,13 +184,15 @@ footer {
   </a>
 </div>
 
-<!-- BODY FOOTER (light grey background) -->
+<!-- BODY FOOTER (circle image and text) -->
 <div class="body-footer">
   <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff"><a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
-  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" style="width: 400px; border-radius: 50%;">
+  <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact" class="circle">
 </div>
 
-<!-- FULL-WIDTH IMAGE -->
-<img src="/assets/img/footer_banner.png" alt="Full Width Banner" class="full-width-image">
+<!-- FULL-WIDTH BOTTOM BANNER OUTSIDE MAIN CONTENT -->
+<div class="bottom-banner">
+  <img src="/assets/img/footer_banner.png" alt="Footer Banner">
+</div>
 
 <footer></footer>

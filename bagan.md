@@ -6,11 +6,11 @@ permalink: /bagan/
 
 # 🎤 Bagan Hip Hop Production
 
-Welcome to my original hip hop archive — a timeline of tracks and albums I've produced under the stage name *Bagan*. In addition to my love of hip hop (all 10% of it - the rest is garbage), making Bagan tracks is mostly for my own enjoyment. I used to play these tracks for friends while driving around in Winnipeg and for people I met on my travels.
+Welcome to a timeline of tracks and albums I've produced under the stage name *Bagan*. Making Bagan tracks is mostly for my own enjoyment. I used to play these tracks for friends while driving around in Winnipeg and for people I met on my travels.
 
-Every album is a snapshot of where I was at the time. Unique to Bagan is a slower rap flow that typically focuses on a narrative of some sort (Bagan is here, he's there, he's in a dream, he's in the sea etc.). As Bagan uses a lot of slow rhymes and pauses, it might not even be considered rapping or even good rapping. Bagan exists in a fantasy land of sorts, somewhat away from typical hip hop content and conventions while poking fun at those very things. Some content can also be a bit explicit, dark, spiritual, or fantastic at times.  
+Every album is a snapshot of where I was at the time. Unique to Bagan is a slower rap flow that typically focuses on a narrative of some sort (Bagan is here, he's there, he's in a dream, he's in the sea etc.). As Bagan uses a lot of slow rhymes and pauses, it might not even be considered rapping or even good rapping. Bagan exists in a fantasy land of sorts, somewhat away from typical hip hop content and conventions while embracing certain conventions to the max, mostly for comedic effect. Some content can be a bit explicit, dark, or surreal at times.  
 
-If you can get into it, I hope you have a good laugh and appreciate whatever insights come your way. As a character, Bagan is probably someone I'll come back to and re-invent at some point.   
+If you can get into it, I hope you have a good laugh and appreciate any insights that come your way. As a character, Bagan is probably someone I'll come back to and re-invent at some point.   
 
 > 🔊 **Tip:** For best sound quality, download the albums using the **MEGASYNC folder links**. You can also preview them on **YouTube** if you're just browsing.
 
