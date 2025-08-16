@@ -5,13 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Lost Contact</title>
   <meta name="description" content="A digital archive of creative transmissions.">
-  <!-- Placeholder for Slate font -->
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
       background-color: #f2f2f2;
       color: #111111;
-      font-family: 'Roboto Mono', monospace;
+      font-family: 'Arial', 'Myriad Pro', Calibri, Helvetica, sans-serif;
       font-size: 0.8em;
       line-height: 1.6;
       margin: 0;
@@ -34,7 +32,7 @@
       position: absolute;
       top: 0;
       bottom: 0;
-      width: 10vw; /* thinner than before */
+      width: 8vw; /* slightly thinner than before */
       background-color: #000000;
       z-index: 0;
     }
@@ -46,7 +44,7 @@
       background-color: #f2f2f2;
       padding: 0;
       position: relative;
-      z-index: 1;
+      z-index: 1; /* above sidebars */
     }
 
     /* ===== HEADER ===== */
@@ -56,33 +54,29 @@
       align-items: center;
       background-color: #303030;
       margin-bottom: 60px;
+      padding: 0;
     }
+
     .site-header h1 {
-      font-family: 'IBM Plex Mono', monospace; /* placeholder for Slate */
+      font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
       font-size: 3em;
       margin: 0;
       color: #ffffff;
       text-transform: lowercase;
       padding: 20px 40px;
     }
-    .site-header img {
-      width: auto;
-      height: auto;
-      max-height: 170px;
-      display: block;
-      margin: 0;
-    }
 
-    /* adjust image to align with right edge of content */
     .header-img-wrapper {
       display: flex;
       justify-content: flex-end;
       flex: 1;
     }
+
     .header-img-wrapper img {
       max-width: 480px;
       height: auto;
       display: block;
+      margin: 0;
     }
 
     /* ===== SECTIONS ===== */
@@ -134,7 +128,8 @@
       .body-footer img { max-height: 70px; }
       .site-header { flex-direction: column; text-align: center; }
       .site-header h1 { padding: 20px; }
-      .site-header img { max-width: 80%; height: auto; margin: 0; }
+      .header-img-wrapper { justify-content: center; margin-top: 10px; }
+      .header-img-wrapper img { max-width: 80%; height: auto; margin: 0; }
     }
   </style>
 </head>
