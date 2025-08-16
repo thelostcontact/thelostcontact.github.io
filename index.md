@@ -29,11 +29,9 @@ description: "A digital archive of creative transmissions."
   <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
 </div>
 
-<!-- BREAKOUT BANNER OUTSIDE WRAPPER -->
-<div class="breakout-banner-wrapper">
-  <div class="breakout-banner-inner">
-    <img src="/assets/img/footer_banner.png" alt="Footer Banner">
-  </div>
+<!-- BOTTOM GREY BAR SECTION -->
+<div class="bottom-banner">
+  <img src="/assets/img/footer_banner.png" alt="Footer Banner">
 </div>
 
 <footer></footer>
