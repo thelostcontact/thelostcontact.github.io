@@ -1,3 +1,4 @@
+/* ===== BODY ===== */
 body {
   background-color: #ffffff;  /* Default Slate background */
   color: #111111;             /* Default text color */
@@ -8,6 +9,7 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
 a {
   color: #6eaaff;
 }
@@ -21,35 +23,42 @@ a {
   margin-bottom: 80px;
   gap: 40px;
 }
+
 .section img {
   max-width: 320px;
   height: auto;
   border: 2px solid #444;
   border-radius: 4px;
 }
+
 .small-img {
   max-width: 260px;
   height: auto;
   border: 2px solid #444;
   border-radius: 4px;
 }
+
 .section .text {
   flex: 1;
   max-width: 600px;
 }
+
 .section h2 {
   font-size: 1.4em;
   color: #444444;
   margin-bottom: 12px;
   font-weight: 600;
 }
+
 .section h2 a {
   color: #444444;
   text-decoration: none;
 }
+
 .section h2 a:hover {
   text-decoration: underline;
 }
+
 .section p {
   margin: 0;
   color: #111111;
@@ -72,9 +81,11 @@ a {
   font-size: 0.9em;
   text-align: center;
 }
+
 .bottom-signoff p {
   margin: 0;
 }
+
 .bottom-signoff img {
   max-height: 100px;
   width: auto;
@@ -90,6 +101,7 @@ a {
   margin: 0;
   padding: 0;
 }
+
 .bottom-graphic img {
   position: absolute;
   bottom: 0;
@@ -97,6 +109,23 @@ a {
   max-width: 200px;
   height: auto;
   object-fit: contain;
+}
+
+/* ===== BREAKOUT BANNER ===== */
+.breakout-banner {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2; /* Matches your banner */
+}
+
+.breakout-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  padding: 0;
+  object-fit: cover;
 }
 
 /* ===== FOOTER ===== */
@@ -112,16 +141,20 @@ footer {
     align-items: center;
     text-align: center;
   }
+
   .section img,
   .small-img {
     max-width: 100%;
   }
+
   .bottom-graphic {
     height: 80px;
   }
+
   .bottom-graphic img {
     max-width: 140px;
   }
+
   .bottom-signoff img {
     max-height: 70px;
   }
