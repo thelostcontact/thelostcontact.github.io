@@ -92,7 +92,7 @@
       display: flex;
       flex-direction: row;
       align-items: flex-start;
-      justify-content: space-between;
+      justify-content: flex-start; /* align text and images with title */
       margin-bottom: 80px;
       gap: 40px;
       padding: 0;
@@ -102,7 +102,7 @@
     .section .text { 
       flex: 1; 
       max-width: 600px; 
-      padding-left: 40px; /* added padding from left edge */
+      padding-left: 15px; /* align with h1 left edge */
     }
     .section h2 { font-size: 1.4em; color: #444444; margin-bottom: 12px; font-weight: 600; }
     .section h2 a { color: #444444; text-decoration: none; }
@@ -113,7 +113,7 @@
     .intro { 
       margin-bottom: 80px; 
       color: #111111; 
-      padding-left: calc(50% - 480px); /* align with h1 title in header */
+      padding-left: 15px; /* align with h1 left edge */
       padding-right: 0;
     }
 
