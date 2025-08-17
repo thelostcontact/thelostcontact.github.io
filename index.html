@@ -119,17 +119,36 @@
       padding-left: 127px; 
       padding-right: 0px; 
     }
-    .section h2 { 
-      font-size: 1.4em; 
-      color: #444444; 
-      margin-bottom: 12px; 
-      font-weight: 600;
-      padding-bottom: 6px;
 
-      /* custom dotted underline with wider dots */
-      border-bottom: 4px solid transparent;
-      border-image: radial-gradient(circle, #bbb 45%, transparent 46%) 8 repeat;
+    /* ===== HEADING UNDERLINES ===== */
+    .section .text h1,
+    .section .text h2,
+    .section .text h3,
+    .section .text h4,
+    .section .text h5,
+    .section .text h6 {
+      position: relative;
+      margin-bottom: 15px;
+      padding-bottom: 5px;
     }
+    .section .text h1::after,
+    .section .text h2::after,
+    .section .text h3::after,
+    .section .text h4::after,
+    .section .text h5::after,
+    .section .text h6::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      height: 1px;
+      background-image: radial-gradient(circle, #ccc 1px, transparent 1px);
+      background-size: 6px 1px; /* 6px spacing = dot + gap about dot's length */
+      background-repeat: repeat-x;
+    }
+
+    .section h2 { font-size: 1.4em; color: #444444; font-weight: 600; }
     .section h2 a { color: #444444; text-decoration: none; }
     .section h2 a:hover { text-decoration: underline; }
     .section p { margin: 0; color: #111111; }
