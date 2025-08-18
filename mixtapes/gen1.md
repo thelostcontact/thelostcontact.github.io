@@ -11,6 +11,10 @@ This is the raw zone — my earliest experiments in cutting and blending tracks.
 To experience the tapes:
 
 - Click the **Download** link beside each era.
+- Open the desired mixtape folder. 
+- Preview each track with Mega's player.  
+- Click the "Download" button at the top for the complete mixtape .zip.
+- Right-click specific files and follow the options to download. 
   
 ---
 
@@ -18,8 +22,8 @@ To experience the tapes:
 
 | Years | Description | Link |
 |-------|-------------|------|
-| **2006–2010** | Mixtape Archive | <a href="https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA" target="_blank">📥 Download</a> |
-| **2000–2005** | Mixtape Archive | <a href="https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA" target="_blank">📥 Download</a> |
+| **2006–2010** | Mixtape Archive | <a href="https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA/folder/O0wFgBgL" target="_blank">📥 Download</a> |
+| **2000–2005** | Mixtape Archive | <a href="https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA/folder/3ogzxR6A" target="_blank">📥 Download</a> |
 
 ---
 

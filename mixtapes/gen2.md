@@ -10,8 +10,10 @@ This era reflects a slow transition toward more detailed editing and atmospheric
 
 To experience the tapes:
 
-- Click the **Download** link beside each title to access the mixtape via MEGA.
-  
+- Click the **Download** link beside each title to access the mixtape via MEGA. 
+- Preview each track with Mega's player.  
+- Click the "Download" button at the top for the complete mixtape .zip.
+- Right-click specific files and follow the options to download. 
 ---
 
 | Year | Mixtape Title | Link |

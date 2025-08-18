@@ -6,12 +6,15 @@ permalink: /mixtapes/gen3/
 
 # 🌌 Gen 3 Mixtapes (2020–2025)
 
-These are my latest and most refined mixes — cinematic, intricate, and emotionally tuned. Each one reflects my most current ear and sensibility, built for repeat listening or deep late-night drives.
+These are my latest and most refined mixes — cinematic and intricate. Each one reflects my most current sensibility, built for repeat listening and late-night drives.
 
 To experience the tapes:
 
-- Click the **Download** link beside each title to access the mixtape via MEGA.
-  
+- Click the **Download** link beside each title to access the mixtape via MEGA. 
+- Preview each track with Mega's player.  
+- Click the "Download" button at the top for the complete mixtape .zip.
+- Right-click specific files and follow the options to download. 
+
 ---
 
 | Year | Mixtape Title | Link |
