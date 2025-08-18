@@ -4,14 +4,6 @@ title: Mixtapes
 permalink: /mixtapes/
 ---
 
-<style>
-/* Add extra space below the H1 title */
-h1 {
-  margin-bottom: 0.5em; /* adjust value to increase/decrease spacing */
-}
-</style>
-
-
 # 🎧 Mixtape Archive
 
 Welcome to my mixtape collection — an evolving archive of handpicked tracks I've edited throughout the years. 
