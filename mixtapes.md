@@ -4,7 +4,10 @@ title: Mixtapes
 permalink: /mixtapes/
 ---
 
-# 🎧 Mixtape Archive
+<!-- Custom header image -->
+<p align="center">
+  <img src="/assets/mixtape-header.png" alt="Mixtape Archive Header" style="max-width:100%; height:auto;">
+</p>
 
 Welcome to my mixtape collection — an evolving archive of handpicked tracks I've edited throughout the years. 
 
@@ -42,5 +45,5 @@ To experience the tapes:
 
 ---
 
-Thanks for listening and wandering the stars.
+Thanks for listening and wandering the stars.  
 — *The Lost Contact*
