@@ -1,15 +1,32 @@
 ---
-layout: subpage
+layout: default
 title: Mixtapes
 permalink: /mixtapes/
 ---
 
+<style>
+/* Hide the theme's default header image if it exists */
+.site-header img {
+  display: none;
+}
 
-<!-- Custom PNG header -->
-<p align="center">
-  <img src="/assets/mixtape-header.png" alt="Mixtape Archive Header" style="max-width:100%; height:auto;">
-</p>
+/* Add your custom PNG as a background to the header */
+.site-header {
+  position: relative;
+  background: url('/assets/mixtape-header.png') center/cover no-repeat;
+  height: 300px; /* adjust height to match your PNG */
+}
 
+/* Position the page title over the image */
+.site-header h1, .site-header .page-title {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white; /* adjust for visibility over your PNG */
+  margin: 0;
+}
+</style>
 
 Welcome to my mixtape collection — an evolving archive of handpicked tracks I've edited throughout the years. 
 
