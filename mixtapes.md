@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: subpage
+title: Mixtapes
 permalink: /mixtapes/
 ---
+
 
 <!-- Custom PNG header -->
 <p align="center">
   <img src="/assets/mixtape-header.png" alt="Mixtape Archive Header" style="max-width:100%; height:auto;">
 </p>
+
 
 Welcome to my mixtape collection — an evolving archive of handpicked tracks I've edited throughout the years. 
 
