@@ -1,15 +1,7 @@
 ---
 layout: default
-title: Mixtapes
 permalink: /mixtapes/
 ---
-
-<style>
-/* Hide the default site header just for this page */
-.site-header {
-  display: none;
-}
-</style>
 
 <!-- Custom PNG header -->
 <p align="center">
