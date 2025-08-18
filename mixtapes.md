@@ -4,7 +4,14 @@ title: Mixtapes
 permalink: /mixtapes/
 ---
 
-<!-- Custom header image -->
+<style>
+/* Hide the default site header just for this page */
+.site-header {
+  display: none;
+}
+</style>
+
+<!-- Custom PNG header -->
 <p align="center">
   <img src="/assets/mixtape-header.png" alt="Mixtape Archive Header" style="max-width:100%; height:auto;">
 </p>
