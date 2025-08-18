@@ -7,7 +7,7 @@ permalink: /mixtapes/
 <style>
 /* Add extra space below the H1 title */
 h1 {
-  margin-bottom: 1em; /* adjust value to increase/decrease spacing */
+  margin-bottom: 0.5em; /* adjust value to increase/decrease spacing */
 }
 </style>
 
