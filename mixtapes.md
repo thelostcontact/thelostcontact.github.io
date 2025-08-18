@@ -4,29 +4,7 @@ title: Mixtapes
 permalink: /mixtapes/
 ---
 
-<style>
-/* Hide the theme's default header image if it exists */
-.site-header img {
-  display: none;
-}
-
-/* Add your custom PNG as a background to the header */
-.site-header {
-  position: relative;
-  background: url('/assets/mixtape-header.png') center/cover no-repeat;
-  height: 300px; /* adjust height to match your PNG */
-}
-
-/* Position the page title over the image */
-.site-header h1, .site-header .page-title {
-  position: absolute;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-  color: white; /* adjust for visibility over your PNG */
-  margin: 0;
-}
-</style>
+# 🎧 Mixtape Archive
 
 Welcome to my mixtape collection — an evolving archive of handpicked tracks I've edited throughout the years. 
 
@@ -64,5 +42,5 @@ To experience the tapes:
 
 ---
 
-Thanks for listening and wandering the stars.  
+Thanks for listening and wandering the stars.
 — *The Lost Contact*
