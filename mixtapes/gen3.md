@@ -14,15 +14,15 @@ To experience the tapes:
   
 ---
 
-| Year | Mixtape Title | Description | Link |
-|------|----------------|-------------|------|
-| **2025** | **LIGHTSHINE** |  | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/XpohVIaC" target="_blank">📥 Download</a> |
-| **2024** | **STARLIGHT** |  | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/Kg4zmArT" target="_blank">📥 Download</a> |
-| **2023** | **UNIVERSE 9** |  | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/O4xx2QqS" target="_blank">📥 Download</a> |
-| **2023** | **CLOUDS** |  | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/PhhRnYxY" target="_blank">📥 Download</a> |
-| **2022** | **ELEGANT SAGE** |  | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/z4pXQaBB" target="_blank">📥 Download</a> |
-| **2021** | **TIMELESS** |  | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/XwgzCQ4a" target="_blank">📥 Download</a> |
-| **2020** | **SPACE TIME** |  | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/epolVIKA" target="_blank">📥 Download</a> |
+| Year | Mixtape Title | Link |
+|------|----------------|------|
+| **2025** | **LIGHTSHINE** | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/XpohVIaC" target="_blank">📥 Download</a> |
+| **2024** | **STARLIGHT** | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/Kg4zmArT" target="_blank">📥 Download</a> |
+| **2023** | **UNIVERSE 9** | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/O4xx2QqS" target="_blank">📥 Download</a> |
+| **2023** | **CLOUDS** | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/PhhRnYxY" target="_blank">📥 Download</a> |
+| **2022** | **ELEGANT SAGE** | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/z4pXQaBB" target="_blank">📥 Download</a> |
+| **2021** | **TIMELESS** | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/XwgzCQ4a" target="_blank">📥 Download</a> |
+| **2020** | **SPACE TIME** | <a href="https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw/folder/epolVIKA" target="_blank">📥 Download</a> |
 
 ---
 
