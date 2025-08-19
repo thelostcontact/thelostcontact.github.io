@@ -6,7 +6,7 @@ permalink: /mixtapes/gen3/
 
 # 🌌 Gen 3 Mixtapes (2020–2025)
 
-These are my latest and most refined mixes — cinematic and intricate. Each one reflects my most current sensibility, built for repeat listening and late-night drives.
+These are my latest and most refined mixes — cinematic and intricate. Each one reflects my most current sensibility, built for repeat listening and late-night drives. It's difficult to pinpoint a favourite here. 
 
 To experience the tapes:
 
