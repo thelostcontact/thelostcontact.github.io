@@ -17,7 +17,7 @@ Finally, there are tracks from specific films, TV, and games that I've copied fr
 To experience the tapes:
 
 - Click the **View Page** link for each generation to browse mixtape titles.
-- Use the **Download Folder** link to grab each generation in full via MEGASYNC (no account required).
+- Use the **Download Folder** link to grab each generation *in full* via MEGASYNC (no account required).
 - If you encounter a MEGA folder with individual files, look at the top for a 'download' button to grab the whole folder at once.  
 
 > 🔊 **Tip:** MEGA’s in-browser player is clunky sometimes, especially on phones — downloading the full mixtapes and files is the best way to listen seamlessly.
