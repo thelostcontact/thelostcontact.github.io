@@ -28,9 +28,9 @@ To experience the tapes:
 
 | Year | Title | Description | Links |
 |------|-----------|-------------|-------|
-| **2020–2025** | **Gen 3** | My top curating and producing is here. It's difficult to pick a top tape or track. For tapes, perhaps SPACETIME, UNIVERSE 9, and STARLIGHT. For tracks, perhaps Moonraker, Mr. Freeze, and Vader-Luke. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen3){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw){:target="_blank"} |
-| **2010–2020** | **Gen 2** | Mixtapes from a decade of travels, adventures, and new friends. Each playlist captures its own mood and flavour.   | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen2){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/PgRwFCgT#3jiX4nqwScvc0ZmdmSZdcg){:target="_blank"} |
-| **2000–2010** | **Gen 1** | Early mixtapes from my highschool and university days in Winnipeg and Toronto. They are where I begin experimenting with curated mixtapes and tweaking tracks. These are from younger days.| [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen1){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA){:target="_blank"} |
+| **2020–2025** | [**Gen 3**] | My top curating and producing is here. It's difficult to pick a top tape or track. For tapes, perhaps SPACETIME, UNIVERSE 9, and STARLIGHT. For tracks, perhaps Moonraker, Mr. Freeze, and Vader-Luke. | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen3){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/e1hnyLxI#7Z_wneoul_DS1cuB6eKkOw){:target="_blank"} |
+| **2010–2020** | [**Gen 2**] | Mixtapes from a decade of travels, adventures, and new friends. Each playlist captures its own mood and flavour.   | [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen2){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/PgRwFCgT#3jiX4nqwScvc0ZmdmSZdcg){:target="_blank"} |
+| **2000–2010** | [**Gen 1**] | Early mixtapes from my highschool and university days in Winnipeg and Toronto. They are where I begin experimenting with curated mixtapes and tweaking tracks. These are from younger days.| [🔗 View Page](https://thelostcontact.github.io/mixtapes/gen1){:target="_blank"} <br> [📥 Download Folder](https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA){:target="_blank"} |
 
 ---
 
@@ -38,7 +38,7 @@ To experience the tapes:
 
 | Folder | Description | Links |
 |--------|-------------|-------|
-| 🎮 FilmGames | This side archive collects tracks inspired by specific films, TV shows, or games. These tracks are copied from different mixtapes.| [📥 Download Folder](https://mega.nz/folder/S45GhI6J#7leHiK7YQYzfJABLfM75bA){:target="_blank"} |
+| 🎮 Film & Games | This side archive collects tracks inspired by specific films, TV shows, or games. These tracks are copied from different mixtapes.| [📥 Download Folder](https://mega.nz/folder/S45GhI6J#7leHiK7YQYzfJABLfM75bA){:target="_blank"} |
 
 ---
 
