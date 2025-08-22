@@ -26,7 +26,7 @@ Some are standalone visual pieces; others accompany mixtape tracks or narrative 
 - **Use the MEGA link** to view and download the original video file.   
 - Some videos might have had music or visuals taken out by YouTube — the MEGA version always reflects the original cut.
 
-> ⚠️ Tip: If MEGA playback doesn't work well on mobile, download the video directly or use a desktop browser.
+> ⚠️ Tip: If MEGA playback doesn't work well on mobile, download the video directly from MEGA.
 
 ---
 
