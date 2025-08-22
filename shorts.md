@@ -41,3 +41,5 @@ To experience the shorts:
 
 Thanks for checking out this corner of the internet, light years away.  
 — *The Lost Contact*
+
+[⬅ Back to Homepage](/)
