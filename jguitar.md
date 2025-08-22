@@ -39,7 +39,7 @@ To experience the library:
 
 ---
 
-Thanks for listening — I wish you senses of calm wherever you are.  
+Thanks for listening.  
 — *Justin B*
 
 [⬅ Back to Homepage](/)

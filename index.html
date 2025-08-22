@@ -74,6 +74,15 @@
       text-align: center;
       flex: 1;
     }
+    .site-header h1 a {
+      color: inherit;         /* keep same color */
+      text-decoration: none;  /* remove underline */
+    }
+    .site-header h1 a:hover {
+      color: inherit;         /* no hover color change */
+      text-decoration: none;  /* no underline on hover */
+    }
+
     .header-img-wrapper {
       display: flex;
       justify-content: flex-end;
@@ -216,7 +225,7 @@
 
       <!-- HEADER -->
       <header class="site-header">
-        <h1>thelostcontact</h1>
+        <h1><a href="https://thelostcontact.github.io/">thelostcontact</a></h1>
         <div class="header-img-wrapper">
           <img src="/assets/img/header-image.png" alt="Header Image">
         </div>
