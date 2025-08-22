@@ -28,3 +28,5 @@ I hope you have a good laugh and appreciate any insights that come your way. As 
 
 Thanks for checking these quatruple platinum albums.
 — *Bagan*
+
+[⬅ Back to Homepage](/)
