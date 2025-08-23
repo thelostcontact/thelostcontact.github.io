@@ -6,9 +6,9 @@ permalink: /mixtapes/
 
 # 🎧 Mixtape Archive
 
-Welcome to my mixtape collection — an evolving archive of handpicked tracks I've edited throughout the years. If the track says "EDIT" beside it, it means I've done something to it. Sometimes I couldn't find or lost the original artist or track title so assigned a name. If you're like the artist, I might be able to track it down. 
+Welcome to my mixtape collection — an evolving archive of handpicked tracks I've edited throughout the years. If the track says "EDIT" beside it, it means I've done something to it. Sometimes I lost the original artist and/or track title so assigned a name. 
 
-Typically, 1 to 2 weeks is taken to create a mixtape in my spare time. This includes finding and curating tracks, cutting parts (e.g., verses/choruses, vocals, skits, SFX), re-ordering parts, adding SFX and dialogue, re-working beginnings and endings, and blending similar tracks together. Some tracks I've put together almost from scratch — getting beats, samples, and building from there. Some tracks are great as I find them. Once the final tape is finished, I listen to it over and over again until it's time to make another one.   
+Typically in my spare time, 1 to 2 weeks is taken to create a mixtape. This includes finding and curating tracks, cutting parts (e.g., verses/choruses, vocals, skits, SFX), re-ordering parts, adding SFX and dialogue, re-working beginnings and endings, and blending similar tracks together. Some tracks I've put together almost from scratch — getting beats and samples, and building from there. Some tracks are great as I find them. Once the final tape is finished, I listen to it over and over again until it's time to make another one.   
 
 I've divided the tapes into 3 generations. The 3rd generation is my best work, the 2nd is great too, and the 1st has the least amount of editing. Each tape reflects a time in my life and they always bring me back. The best way to experience them is with a pair of decent headphones or speakers and to set the order to random.
 
@@ -42,7 +42,7 @@ To experience the tapes:
 
 ---
 
-Catch you in the next mixtape, fellow traveller. 
+Catch you in the next mixtape. 
 — *The Lost Contact*
 
 [⬅ Back to Homepage](/)

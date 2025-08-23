@@ -8,7 +8,7 @@ permalink: /bagan/
 
 Welcome to a timeline of tracks and albums I've produced under the stage name *Bagan*. Producing Bagan tracks is for my own enjoyment and I used to play these tracks for friends and travellers.
 
-Unique to Bagan is a slower rap flow that typically focuses on a narrative of some sort (Bagan is here, he's there, he's in a dream, he's in the sea etc.). As Bagan uses a lot of slow rhymes and pauses, it might not even be considered rapping or even good rapping. It's more about narrative, comedy, and atmosphere than anything. Bagan exists in a fantasy land of sorts, away from certain hip hop conventions while embracing other conventions to the max. Tracks can also be dark, explicit, or surreal at times.
+Unique to Bagan is a slower rap flow that typically focuses on a narrative of some sort (Bagan is here, he's there, he's in a dream, he's in the sea etc.). As Bagan uses a lot of slow rhymes and pauses, it might not even be considered rapping or even good rapping. It's more about narrative, comedy, and atmosphere than anything. Bagan exists in a fantasy land of sorts, away from certain hip hop conventions while embracing other conventions to the max. Tracks can also be dark, explicit, and surreal at times.
 
 I hope you have a good laugh and appreciate any insights that come your way. As a character, Bagan is someone I'll probably re-invent at some point.   
 
