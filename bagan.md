@@ -16,7 +16,7 @@ I hope you have a good laugh and appreciate any insights that come your way. As 
 
 ---
 
-## 🔥 The Bagan Albums
+## 🔥 Albums
 
 | Year | Name | Description | Links |
 |------|------|-------------|-------|
