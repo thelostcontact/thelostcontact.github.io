@@ -8,11 +8,11 @@ permalink: /jguitar/
 
 Welcome to my guitar-based instrumentals archive. This is a selection of compositions I’ve created over the years — mostly rhythmic and melodic recorded with minimal gear. I'm not sure how to describe them except for "beachy." 
 
-Songwriting is someething I focused on and practiced over time. Basically, a song will "arrive." I play something, tweak it, and it leads to something else, then something else. I play with the details, order, timing etc., and come out with a rough version, give or take. I then record it and come back to it. I learned that if I don't record it, it disappears and is gone for good. 
+Songwriting is something I focused on and practiced over time. Basically, a song will "arrive." I play something, tweak it, and it leads to something else, then something else. I play with the details, order, timing etc., and come out with a rough version, give or take. I then record it and come back to it. I learned that if I don't record it, it disappears, and is gone for good. 
 
 Lately, I've had to close myself off from new ones, as I'd like to play live and get out there. I have around 34 finished songs and I struggle to practice them all alongside new ones from May-June 2025. There are also some I need to relearn that are just sitting there. 
 
-I started playing guitar when I was a kid, around age 13, and my parents got me lessons from a teacher named Dawin who came to our house on Queenston St. Dawin taught me about the guitar's versatility. We mostly practiced 3-string jazz chords and rhythmic patterns.
+I started playing guitar when I was a kid, around age 13, and my parents got me lessons from a teacher named Dawin who came to our house on Queenston St. Through jazz chords and rhythmic patterns, Dawin taught me about the guitar's versatility and voicings.
 
 To experience the library:
 
