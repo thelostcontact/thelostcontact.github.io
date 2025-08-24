@@ -6,7 +6,7 @@ permalink: /mixtapes/gen1/
 
 # 🔥 Gen 1 Mixtapes (2000–2010)
 
-These are my earliest experiments in curation and contain less editing and reduxes. For simplicity's sake, I decided to omit any descriptions.
+These are my earliest experiments in curation and contain less editing and reduxes. For simplicity's sake, I decided to omit any descriptions. 2000-2005 is a bit sparse as a lot of the mixtapes were on burnt CDs.
 
 To experience the tapes:
 
@@ -16,7 +16,7 @@ To experience the tapes:
 
 ---
 
-| Years | Description | Link |
+| Years | Title | Link |
 |-------|-------------|------|
 | **2006–2010** | Mixtape Archive | <a href="https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA/folder/O0wFgBgL" target="_blank">📥 Download</a> |
 | **2000–2005** | Mixtape Archive | <a href="https://mega.nz/folder/Tkw2lZpR#k3s1iv9QHDFZoRXwitI-JA/folder/3ogzxR6A" target="_blank">📥 Download</a> |
