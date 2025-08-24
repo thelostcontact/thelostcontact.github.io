@@ -11,8 +11,8 @@ These are my latest and most refined mixes — cinematic and intricate. It's dif
 To experience the tapes:
 
 - Click the **Download** link beside each title to access the mixtape via MEGA. 
-- Preview each track with Mega's player.  
 - Click the "Download" button at the top for the complete mixtape .zip.
+- Play individual tracks with Mega's player.
 - Right-click specific files and follow the options to download. 
 
 ---
