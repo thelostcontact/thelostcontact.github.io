@@ -6,13 +6,13 @@ permalink: /mixtapes/gen2/
 
 # 🌠 Gen 2 Mixtapes (2010–2020)
 
-This era reflects a slow transition toward more detailed editing and atmospheric cohesion. Castle Sky is one of my favourites amongst these along with Bamboo Fighting Stick. 
+This era reflects a transition toward more detailed editing and atmospheric cohesion. Castle Sky is a favourite amongst these along with Bamboo Fighting Stick. 
 
 To experience the tapes:
 
 - Click the **Download** link beside each title to access the mixtape via MEGA. 
-- Preview each track with Mega's player.  
 - Click the "Download" button at the top for the complete mixtape .zip.
+- Play individual tracks with Mega's player.
 - Right-click specific files and follow the options to download. 
 
 ---
