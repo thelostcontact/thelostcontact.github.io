@@ -12,7 +12,7 @@ Songwriting is something I focused on and practiced over time. Basically, a song
 
 Lately, I've had to close myself off from new ones, as I'd like to play live and get out there. I have around 34 finished songs and I struggle to practice them all alongside new ones from May-June 2025. There are also some I need to relearn that are just sitting there. 
 
-I started playing guitar when I was a kid, around age 13, and my parents got me lessons from a teacher named Dawin who came to our house on Queenston St. Through jazz chords and rhythmic patterns, Dawin taught me about the guitar's versatility and voicings.
+I started playing guitar around age 13 and my parents got me lessons from a teacher named Dawin who came to our house on Queenston St. Through jazz chords and rhythmic patterns, Dawin taught me about the guitar's versatility and voicings.
 
 To experience the library:
 
