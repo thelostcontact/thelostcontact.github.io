@@ -6,7 +6,7 @@ permalink: /film/
 
 # 🎬 Film Archive
 
-Welcome to my archive of short films, multimedia projects, and experimental edits from over the years. These projects span a wide range of styles — from action satire to moody portraits, student experiments to professional commissions.
+Welcome to my archive of short films, media projects, and experimental edits from over the years. These projects span a wide range of styles — from action satire to moody portraits, student experiments to professional commissions.
 
 Some were filmed with small crews, some cut from found footage, and some set entirely to music. Many projects reflect the gear I had and the ideas at the time. Some include music I edited myself.
 
