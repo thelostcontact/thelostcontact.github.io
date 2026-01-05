@@ -193,17 +193,45 @@
 
     /* ===== MOBILE ===== */
     @media (max-width: 768px) {
-      .section { flex-direction: column; align-items: center; text-align: center; }
-      .section img, .small-img { max-width: 100%; margin-right: 0; margin-top: 10px; }
-      .body-footer img { max-height: 70px; margin-left: 0; margin-right: 0; }
+      /* Adjust main container width to fit phone screen */
+      .content-wrapper { width: 100%; }
+      .site-wrapper::before,
+      .site-wrapper::after { display: none; } /* Remove sidebars on mobile */
+
+      /* Header adjustments */
       .site-header { flex-direction: column; text-align: center; }
       .site-header h1 { padding: 15px 0; }
       .header-img-wrapper { justify-content: center; margin-top: 0; }
       .header-img-wrapper img { max-width: 80%; height: auto; margin: 0; vertical-align: top; }
-      .site-wrapper::before,
-      .site-wrapper::after { width: 10vw; }
-      .section .text, .intro { padding-left: 20px; } 
+
+      /* Section Layout adjustments */
+      .section { flex-direction: column; align-items: center; text-align: center; gap: 20px; }
+      .section img, .small-img { max-width: 90%; margin-right: 0; margin-top: 10px; }
+      
+      /* Text adjustments (Fixes alignment and pressing against side) */
+      .section .text {
+        padding-left: 20px;
+        padding-right: 20px; /* Balances the padding */
+        max-width: 100%; /* Ensures text uses full width */
+        box-sizing: border-box;
+      }
+      
+      /* Intro adjustments (Fixes empty space on right) */
+      .intro { 
+        padding-left: 20px; 
+        padding-right: 20px; /* Overrides the desktop 150px padding */
+        text-align: left; /* Optional: keeps intro left aligned, or change to center if preferred */
+      }
+
+      /* Body Footer adjustments (Fixes smooshed image) */
       .body-footer { padding-left: 20px; padding-right: 20px; } 
+      .body-footer img { 
+        width: auto; /* Unlocks the fixed desktop width */
+        height: auto; /* Maintains aspect ratio */
+        max-width: 150px; /* Keeps it a reasonable size on mobile */
+        margin-left: auto; 
+        margin-right: auto; 
+      }
     }
   </style>
 </head>
@@ -211,10 +239,8 @@
   <div class="site-wrapper">
     <div class="content-wrapper">
       
-      <!-- THICK BLACK BAR -->
       <div class="top-black-bar"></div>
 
-      <!-- HEADER -->
       <header class="site-header">
         <h1>thelostcontact</h1>
         <div class="header-img-wrapper">
@@ -222,7 +248,6 @@
         </div>
       </header>
 
-      <!-- INTRO -->
       <div class="intro">
         <p>
           Here is my creative work from 2002 onwards. I hope everyone has a laugh and connects with life in the best of ways. Hopefully this endures after my ship comes under heavy fire and I enter an unknown chasm.<br>
@@ -232,7 +257,6 @@
         </p>
       </div>
 
-      <!-- SECTIONS -->
       <div class="section">
         <div class="text">
           <h2><a href="https://thelostcontact.github.io/mixtapes/" target="_blank">MIXTAPES</a></h2>
@@ -293,21 +317,18 @@
         </a>
       </div>
 
-      <!-- BODY FOOTER -->
       <div class="body-footer">
         <p>Ghost signal confirmed. Transmission received. <strong style="color:#6eaaff">
         <a href="https://thelostcontact.github.io/" style="color:#6eaaff; text-decoration: none;">THE LOST CONTACT</a></strong>.</p>
         <img src="/assets/img/Coconut Master - Lost Contact.PNG" alt="The Lost Contact">
       </div>
 
-      <!-- GITHUB PAGES FOOTER -->
       <div class="github-footer">
         Published with Github pages
       </div>
 
       <footer></footer>
 
-      <!-- FULL-WIDTH IMAGE -->
       <img src="/assets/img/footer_banner.png" alt="Full Width Banner" class="full-width-image">
 
     </div>
